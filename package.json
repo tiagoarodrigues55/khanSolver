@@ -1,0 +1,21 @@
+{
+  "name": "khansolver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "curlconverter": "^3.12.0",
+    "khan": "^0.1.8",
+    "khan-api-wrapper": "^1.2.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
