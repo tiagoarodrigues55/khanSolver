@@ -1,27 +1,22 @@
 const axios = require('axios')
-const main = require('./getCookies')
+const getCookies = require('./getCookies')
 var timestamp = new Date().toISOString()
 
-async function test(login, senha){
-  // const data = await main(login, senha)
-  // console.log(data)
-  // await solve(data)
-await solve({coachKaid: "kaid_566388036348377688031191", 
-studentList: "5309668941840384", 
-fkey: "1.0_2olctu033ojejvj4lr2qkp0febrlgcu02fanm6faunqq59u9jmj2fik7bj1vqgug9_1612880866831", 
-stringCookies: "KAVID=b05bd56f-a90c-4dff-96d2-9edcab04c035; _gcl_au=1.1.1301782804.1612834183; _ga=GA1.2.1320909393.1612834190; _gid=GA1.2.39213107.1612834190; fkey=1.0_353lmu53m4fgeh1ve3n7n3t6jmmh3blbomm21ip4mo38jph1914h8fq737cedh72ida5hj_1612834189710; G_ENABLED_IDPS=google; KAAS=KzbOdEoXzsXvxHpgGCrX6w; LIS=pt; KAAL=$W9Q3XD5mfQ9PcY7sbdJLp-HEPSO36ssmIik0YuwCvOQ.~qo8nh2$a2FpZF8yOTkyMTIyOTI5OTQyNjQyMjEzODE5NjY*; KAAC=$wrkmby8gepygPtYMjoc0n9GMktENM6Hxe55m1vfPwmw.~qo8nh2$a2FpZF8yOTkyMTIyOTI5OTQyNjQyMjEzODE5NjY*$a2FpZF8yOTkyMTIyOTI5OTQyNjQyMjEzODE5NjY!0!0!0~2; _gat=1",
-hashUrls: "210208-1903-d352bc934e58_1612880914083", 
-login: "tiago113"
-})
 
+// const logins = [{login: 'tiagoarodrigues55', senha: 'Tiago2003'}, {login: 'tiago113', senha: 'skebfcqm'}, {login: 'tiago228', senha: 'xtsyrscw' }, {login: 'tiago3274', senha: 'quabxnsz'}]
+
+login()
+async function login(){
+  const logins = await axios.get('https://khansolver.vercel.app/api/getSubscribers').then(res=>res.data)
+for(let login of logins){
+  console.log('chamei main passando o login: ' + login.username)
+  await solve(login.username, login.password)
 }
-const logins = [{login: 'tiagoarodrigues55', senha: 'Tiago2003'}, {login: 'tiago113', senha: 'skebfcqm'}, {login: 'tiago228', senha: 'xtsyrscw' }, {login: 'tiago3274', senha: 'quabxnsz'}]
-// logins.map(login=>{
-//   test(login.login, login.senha)
-// })
-test(logins[0].login, logins[0].senha)
+}
 
-async function solve(dados){
+async function solve(login, senha){
+  const dados = await getCookies(login, senha)
+  console.log('Os dados chegaram!')
   const Data = {coachKaid: "kaid_392072691530132937767193", studentList: "6551515930574848", fkey: "1.0_l5q45u3vme95pjkr4n51ds107g1icot4oncfop815gjda0q4kcoo7t7h7b26g8n79_1612447605478", stringCookies: "KAVID=78bba636-928f-417a-9c16-a5b0e1b101ec; _gcl_au=1.1.1289192661.1605624690; _ga=GA1.2.111229800.1605624690; G_ENABLED_IDPS=google; ki_r=; ki_t=1606186128184%3B1606325954154%3B1606325954154%3B2%3B6; _fbp=fb.1.1608399972890.649270967; _gac_UA-6742635-1=1.1612196589.Cj0KCQiA6t6ABhDMARIsAONIYyxbTUdoz1J3djXUXpBudarehOdi3bNwHD5rbjHqAf2j9jIgLmekTd4aAgSCEALw_wcB; _gid=GA1.2.1127238055.1612447595; fkey=1.0_l5q45u3vme95pjkr4n51ds107g1icot4oncfop815gjda0q4kcoo7t7h7b26g8n79_1612447605478; G_AUTHUSER_H=1; KAAS=hvQ-cPdN0FIETU1wuwbWcQ; LIS=pt; _gat=1; KAAL=$GWirUZbNPcKqdfORkFOXIedYtGa0SxAaGF51lYvsAvs.~qo0cwg$a2FpZF8yOTkyMTIyOTI5OTQyNjQyMjEzODE5NjY*; KAAC=$zvHTkrbq70JhOh-YBAXoZCuuy9Czp9FT8e9hkBrKIqo.~qo0cwg$a2FpZF8yOTkyMTIyOTI5OTQyNjQyMjEzODE5NjY*$a2FpZF8yOTkyMTIyOTI5OTQyNjQyMjEzODE5NjY!0!0!0~2", hashUrls: "210203-1541-6c168fc23472_1612448082597", login: "tiagoarodrigues55"}
   console.log('iniciando processo de resolução...')
 const fkey = dados.fkey
@@ -30,8 +25,8 @@ const coachKaid = dados.coachKaid
 const username = dados.login
 const dueAfter = timestamp
 const hashUrls = dados.hashUrls
-// const cookies = dados.stringCookies
-const cookies = "KAVID=c2157bf0-36ba-45b3-8a6b-2c90e8cdcfa3; _gcl_au=1.1.1071199951.1612879540; _ga=GA1.2.1926539698.1612879548; _gid=GA1.2.625633886.1612879548; G_ENABLED_IDPS=google; fkey=1.0_2olctu033ojejvj4lr2qkp0febrlgcu02fanm6faunqq59u9jmj2fik7bj1vqgug9_1612880866831; KAAS=XFmsiCHVkVRRSyDX1qt9RQ; LIS=pt; KAAL=$DUJo65Rh01SfZoCt6KP8LQxUopzOtlj3RAjkUCr1q7c.~qo9muv$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY*; KAAC=$k6sAAok4r8KfDJ4bLmo889XMJX2j4EmYDyyzpZGFgUo.~qo9muv$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY*$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY!0!0!1~2; _gat=1"
+const cookies = dados.stringCookies
+// const cookies = "KAVID=c2157bf0-36ba-45b3-8a6b-2c90e8cdcfa3; _gcl_au=1.1.1071199951.1612879540; _ga=GA1.2.1926539698.1612879548; _gid=GA1.2.625633886.1612879548; G_ENABLED_IDPS=google; fkey=1.0_2olctu033ojejvj4lr2qkp0febrlgcu02fanm6faunqq59u9jmj2fik7bj1vqgug9_1612880866831; KAAS=XFmsiCHVkVRRSyDX1qt9RQ; LIS=pt; KAAL=$DUJo65Rh01SfZoCt6KP8LQxUopzOtlj3RAjkUCr1q7c.~qo9muv$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY*; KAAC=$k6sAAok4r8KfDJ4bLmo889XMJX2j4EmYDyyzpZGFgUo.~qo9muv$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY*$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY!0!0!1~2; _gat=1"
 const urls = {
   recebeRecomendações: `https://pt.khanacademy.org/api/internal/graphql/UserAssignments?lang=pt&_=${hashUrls}`,
   recebeUnitTests: `https://pt.khanacademy.org/api/internal/graphql/getOrCreateExerciseTask?lang=pt&_=${hashUrls}`, 
@@ -88,7 +83,6 @@ async function recebeRecomendações(after){
   console.log('inicia a função recebeRecomendações')
   const exercisesIds = []
   const ids = await api.post(urls.recebeRecomendações, data(after)).then(res=>{
-    
     if(res.data.data.user.assignmentsPage.pageInfo.nextCursor){
       console.log('chamando a função inicio passando o próximo cursor')
       início(res.data.data.user.assignmentsPage.pageInfo.nextCursor)
@@ -211,6 +205,6 @@ function data5(exerciseId, index){
   return {"operationName":"getAssessmentItem","variables":{"input":{"exerciseId":exerciseId,"problemNumber":index}},"query":"query getAssessmentItem($input: AssessmentItemInput!) {\n  assessmentItem(input: $input) {\n    item {\n      id\n      sha\n      problemType\n      itemData\n      __typename\n    }\n    error {\n      code\n      debugMessage\n      __typename\n    }\n    __typename\n  }\n}\n"}
 }
 
-início(null)
+await início(null)
 }
 
