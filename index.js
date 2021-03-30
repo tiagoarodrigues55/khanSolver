@@ -3,7 +3,7 @@ const getCookies = require('./getCookies')
 var timestamp = new Date().toISOString()
 
 
-// const logins = [{login: 'tiagoarodrigues55', senha: 'Tiago2003'}, {login: 'tiago113', senha: 'skebfcqm'}, {login: 'tiago228', senha: 'xtsyrscw' }, {login: 'tiago3274', senha: 'quabxnsz'}]
+// const logins = [{login: 'tiago113', senha: 'skebfcqm'}, {login: 'tiago228', senha: 'xtsyrscw' }, {login: 'tiago3274', senha: 'quabxnsz'}]
 
 login()
 async function login(){
@@ -26,7 +26,6 @@ const username = dados.login
 const dueAfter = timestamp
 const hashUrls = dados.hashUrls
 const cookies = dados.stringCookies
-// const cookies = "KAVID=c2157bf0-36ba-45b3-8a6b-2c90e8cdcfa3; _gcl_au=1.1.1071199951.1612879540; _ga=GA1.2.1926539698.1612879548; _gid=GA1.2.625633886.1612879548; G_ENABLED_IDPS=google; fkey=1.0_2olctu033ojejvj4lr2qkp0febrlgcu02fanm6faunqq59u9jmj2fik7bj1vqgug9_1612880866831; KAAS=XFmsiCHVkVRRSyDX1qt9RQ; LIS=pt; KAAL=$DUJo65Rh01SfZoCt6KP8LQxUopzOtlj3RAjkUCr1q7c.~qo9muv$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY*; KAAC=$k6sAAok4r8KfDJ4bLmo889XMJX2j4EmYDyyzpZGFgUo.~qo9muv$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY*$a2FpZF81ODQ5NzE1NTA2NzUwOTQ0MjIyMDQ0MjY!0!0!1~2; _gat=1"
 const urls = {
   recebeRecomendações: `https://pt.khanacademy.org/api/internal/graphql/UserAssignments?lang=pt&_=${hashUrls}`,
   recebeUnitTests: `https://pt.khanacademy.org/api/internal/graphql/getOrCreateExerciseTask?lang=pt&_=${hashUrls}`, 
