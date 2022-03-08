@@ -1,0 +1,525 @@
+{
+  "data": {
+    "user": {
+      "contentItemProgresses": [
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "23756",
+            "progressKey": "v23756",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x26f36960",
+            "progressKey": "ax26f36960",
+            "__typename": "Article"
+          },
+          "__typename": "ArticleItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 7,
+            "numCorrect": 7,
+            "completedDate": "2021-04-16T14:21:36Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "COMPLETE",
+          "content": {
+            "id": "4514693",
+            "progressKey": "e4514693",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvZH-n_cIDA",
+            "lastAttemptDate": "2021-04-16T14:21:36Z",
+            "numCorrect": 7,
+            "numAttempted": 7,
+            "__typename": "ExerciseAttempt"
+          }
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "23758",
+            "progressKey": "v23758",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "xd4d8a4bb",
+            "progressKey": "axd4d8a4bb",
+            "__typename": "Article"
+          },
+          "__typename": "ArticleItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 4,
+            "numCorrect": 4,
+            "completedDate": "2021-04-16T14:21:32Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "COMPLETE",
+          "content": {
+            "id": "13090861",
+            "progressKey": "e13090861",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvfHOyuQJDA",
+            "lastAttemptDate": "2021-04-16T14:21:32Z",
+            "numCorrect": 4,
+            "numAttempted": 4,
+            "__typename": "ExerciseAttempt"
+          }
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x8053eafb",
+            "progressKey": "ax8053eafb",
+            "__typename": "Article"
+          },
+          "__typename": "ArticleItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x49884c29",
+            "progressKey": "ax49884c29",
+            "__typename": "Article"
+          },
+          "__typename": "ArticleItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x967aacb2",
+            "progressKey": "vx967aacb2",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "xbc774557",
+            "progressKey": "vxbc774557",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "xc9bcc09d",
+            "progressKey": "exc9bcc09d",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": null
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x07456d4c",
+            "progressKey": "vx07456d4c",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 4,
+            "numCorrect": 4,
+            "completedDate": "2021-05-06T21:49:26Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "COMPLETE",
+          "content": {
+            "id": "x2a6cc09a",
+            "progressKey": "ex2a6cc09a",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvce55Z4JDA",
+            "lastAttemptDate": "2021-05-06T21:49:26Z",
+            "numCorrect": 4,
+            "numAttempted": 4,
+            "__typename": "ExerciseAttempt"
+          }
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x4dbb5644",
+            "progressKey": "vx4dbb5644",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 4,
+            "numCorrect": 4,
+            "completedDate": "2021-05-06T21:48:52Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "COMPLETE",
+          "content": {
+            "id": "xc0060b75",
+            "progressKey": "exc0060b75",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvcfGt7ULDA",
+            "lastAttemptDate": "2021-05-06T21:48:52Z",
+            "numCorrect": 4,
+            "numAttempted": 4,
+            "__typename": "ExerciseAttempt"
+          }
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x93881235",
+            "progressKey": "vx93881235",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x63e2adb6",
+            "progressKey": "vx63e2adb6",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 4,
+            "numCorrect": 4,
+            "completedDate": "2021-05-06T21:49:02Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "STARTED",
+          "content": {
+            "id": "xf88e76bd",
+            "progressKey": "exf88e76bd",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvbuCz60KDA",
+            "lastAttemptDate": "2021-05-06T21:49:02Z",
+            "numCorrect": 4,
+            "numAttempted": 4,
+            "__typename": "ExerciseAttempt"
+          }
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x4f7e87ad",
+            "progressKey": "vx4f7e87ad",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "xe3c54f14",
+            "progressKey": "vxe3c54f14",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x36e2a7ae",
+            "progressKey": "vx36e2a7ae",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 4,
+            "numCorrect": 4,
+            "completedDate": "2021-05-13T13:02:14Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "COMPLETE",
+          "content": {
+            "id": "xe6a773ee",
+            "progressKey": "exe6a773ee",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvfeXl7kJDA",
+            "lastAttemptDate": "2021-05-13T13:02:14Z",
+            "numCorrect": 4,
+            "numAttempted": 4,
+            "__typename": "ExerciseAttempt"
+          }
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "26808",
+            "progressKey": "v26808",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "26809",
+            "progressKey": "v26809",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "26810",
+            "progressKey": "v26810",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "26811",
+            "progressKey": "v26811",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 4,
+            "numCorrect": 4,
+            "completedDate": "2021-05-06T21:49:18Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "COMPLETE",
+          "content": {
+            "id": "13179420",
+            "progressKey": "e13179420",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvdvhsv8JDA",
+            "lastAttemptDate": "2021-05-06T21:49:18Z",
+            "numCorrect": 4,
+            "numAttempted": 4,
+            "__typename": "ExerciseAttempt"
+          }
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "26812",
+            "progressKey": "v26812",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "xbded91b9",
+            "progressKey": "vxbded91b9",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 4,
+            "numCorrect": 4,
+            "completedDate": "2021-05-06T21:49:09Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "COMPLETE",
+          "content": {
+            "id": "x6886eb67",
+            "progressKey": "ex6886eb67",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvYeNyYwIDA",
+            "lastAttemptDate": "2021-05-06T21:49:09Z",
+            "numCorrect": 4,
+            "numAttempted": 4,
+            "__typename": "ExerciseAttempt"
+          }
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x9e89ebd8",
+            "progressKey": "vx9e89ebd8",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "x058b41f0",
+            "progressKey": "vx058b41f0",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": null,
+          "completionStatus": "UNSTARTED",
+          "content": {
+            "id": "xb8d341b5",
+            "progressKey": "vxb8d341b5",
+            "__typename": "Video"
+          },
+          "__typename": "VideoItemProgress"
+        },
+        {
+          "bestScore": {
+            "numAttempted": 4,
+            "numCorrect": 4,
+            "completedDate": "2021-05-13T13:02:18Z",
+            "__typename": "BestScore"
+          },
+          "completionStatus": "COMPLETE",
+          "content": {
+            "id": "520927569",
+            "progressKey": "e520927569",
+            "__typename": "Exercise"
+          },
+          "__typename": "ExerciseItemProgress",
+          "lastCompletedAttempt": {
+            "id": "ag5zfmtoYW4tYWNhZGVteXIZCxIMTGVhcm5pbmdUYXNrGICAvdepsrQJDA",
+            "lastAttemptDate": "2021-05-13T13:02:18Z",
+            "numCorrect": 4,
+            "numAttempted": 4,
+            "__typename": "ExerciseAttempt"
+          }
+        }
+      ],
+      "id": "kaid_888935498455674538305030",
+      "curationItemProgress": {
+        "numTotalSkills": 34,
+        "numCompletedSkills": 8,
+        "masteryEnabled": false,
+        "subjectMasteryEnabled": false,
+        "masteryMap": [
+          {
+            "progressKey": "e13090861",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "e13179420",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "e4514693",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "e520927569",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "ex2a6cc09a",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "ex6886eb67",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "exc0060b75",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "exc9bcc09d",
+            "status": "unfamiliar",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "exe6a773ee",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          },
+          {
+            "progressKey": "exf88e76bd",
+            "status": "proficient",
+            "__typename": "MasteryMapItem"
+          }
+        ],
+        "currentMastery": {
+          "percentage": 0,
+          "pointsEarned": 0,
+          "pointsAvailable": 0,
+          "__typename": "CurationItemMastery"
+        },
+        "__typename": "UnitProgress"
+      },
+      "recommendationsForUnit": [],
+      "__typename": "User"
+    }
+  }
+}

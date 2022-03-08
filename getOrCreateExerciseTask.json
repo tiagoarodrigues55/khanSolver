@@ -1,0 +1,2528 @@
+{
+  "data": {
+    "getOrCreateExerciseTask": {
+      "result": {
+        "error": null,
+        "actionResults": {
+          "notificationsAdded": {
+            "avatarParts": [],
+            "badges": [],
+            "continueUrl": null,
+            "readable": [],
+            "toast": [],
+            "urgent": [],
+            "__typename": "NotificationsAdded"
+          },
+          "__typename": "ActionResults"
+        },
+        "userTask": {
+          "cards": [
+            {
+              "done": false,
+              "cardType": "problem",
+              "exerciseName": "dividing-line-segments",
+              "problemType": null,
+              "__typename": "ProblemCard"
+            },
+            {
+              "done": false,
+              "cardType": "problem",
+              "exerciseName": "distance_formula",
+              "problemType": null,
+              "__typename": "ProblemCard"
+            },
+            {
+              "done": false,
+              "cardType": "problem",
+              "exerciseName": "dividing-line-segments",
+              "problemType": null,
+              "__typename": "ProblemCard"
+            },
+            {
+              "done": false,
+              "cardType": "problem",
+              "exerciseName": "distance_formula",
+              "problemType": null,
+              "__typename": "ProblemCard"
+            },
+            {
+              "done": false,
+              "cardType": "problem",
+              "exerciseName": "dividing-line-segments",
+              "problemType": null,
+              "__typename": "ProblemCard"
+            }
+          ],
+          "includeSkipButton": true,
+          "task": {
+            "id": "6552546191556608",
+            "key": "ag5zfmtoYW4tYWNhZGVteXJcCxIWVG9waWNCYXNlZFRhc2tBbmNlc3RvciIna2FpZF84ODg5MzU0OTg0NTU2NzQ1MzgzMDUwMzA6eGFmNjBiNzYyDAsSDExlYXJuaW5nVGFzaxiAgP3gmPDRCww",
+            "pointBounty": 250,
+            "pointsEarned": 0,
+            "taskType": "topic_quiz",
+            "completionCriteria": {
+              "name": "num_problems_5",
+              "__typename": "CompletionCriteria"
+            },
+            "contentKey": "ag5zfmtoYW4tYWNhZGVteXIgCxIJVG9waWNRdWl6IhF4NTU2ZTAxMTZlZGM1NjZhNww",
+            "promotionCriteria": {
+              "name": "percent_correct",
+              "value": 50,
+              "__typename": "PromotionCriteria"
+            },
+            "reservedItems": null,
+            "reservedItemsCompleted": null,
+            "taskAttemptHistory": [],
+            "__typename": "TopicQuizTask"
+          },
+          "userExercises": [
+            {
+              "exerciseModel": {
+                "id": "xc9bcc09d",
+                "assessmentItemCount": 16,
+                "displayName": "Divide line segments",
+                "isQuiz": false,
+                "isSkillCheck": false,
+                "name": "dividing-line-segments",
+                "nodeSlug": "e/dividing-line-segments",
+                "progressKey": "exc9bcc09d",
+                "translatedDisplayName": "Divida segmentos de reta",
+                "relatedContent": [
+                  {
+                    "id": "xbc774557",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "translatedTitle": "Divisão de segmentos de reta",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xff63fac4",
+                            "kind": "Topic",
+                            "slug": "geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaa176d24",
+                            "kind": "Topic",
+                            "slug": "hs-geo-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x8fa7e774",
+                            "kind": "Topic",
+                            "slug": "hs-geo-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x87125bde",
+                            "kind": "Topic",
+                            "slug": "math1",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x3cbe69b6",
+                            "kind": "Topic",
+                            "slug": "math1-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5d27a788",
+                            "kind": "Topic",
+                            "slug": "math1-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaf60b762",
+                            "kind": "Topic",
+                            "slug": "analytic-geometry-topic",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x85fd66aa",
+                            "kind": "Topic",
+                            "slug": "cc-distances-between-points",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 338,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "kaUrl": "https://pt.khanacademy.org/video/ratios-of-distances-between-colinear-points",
+                    "nodeSlug": "v/ratios-of-distances-between-colinear-points",
+                    "relativeUrl": "/video/ratios-of-distances-between-colinear-points",
+                    "slug": "ratios-of-distances-between-colinear-points",
+                    "translatedYoutubeId": "0H27B1p3qWk",
+                    "__typename": "Video"
+                  },
+                  {
+                    "id": "x967aacb2",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "translatedTitle": "Como dividir segmentos de reta: graficamente",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xff63fac4",
+                            "kind": "Topic",
+                            "slug": "geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaa176d24",
+                            "kind": "Topic",
+                            "slug": "hs-geo-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x8fa7e774",
+                            "kind": "Topic",
+                            "slug": "hs-geo-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x87125bde",
+                            "kind": "Topic",
+                            "slug": "math1",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x3cbe69b6",
+                            "kind": "Topic",
+                            "slug": "math1-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5d27a788",
+                            "kind": "Topic",
+                            "slug": "math1-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaf60b762",
+                            "kind": "Topic",
+                            "slug": "analytic-geometry-topic",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x85fd66aa",
+                            "kind": "Topic",
+                            "slug": "cc-distances-between-points",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 280,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "kaUrl": "https://pt.khanacademy.org/video/finding-a-point-part-way-between-two-points",
+                    "nodeSlug": "v/finding-a-point-part-way-between-two-points",
+                    "relativeUrl": "/video/finding-a-point-part-way-between-two-points",
+                    "slug": "finding-a-point-part-way-between-two-points",
+                    "translatedYoutubeId": "YHTUWJ5fLjs",
+                    "__typename": "Video"
+                  }
+                ],
+                "relatedVideos": [
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 338,
+                    "id": "xbc774557",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "kaUrl": "https://pt.khanacademy.org/video/ratios-of-distances-between-colinear-points",
+                    "kind": "Video",
+                    "nodeSlug": "v/ratios-of-distances-between-colinear-points",
+                    "progressKey": "vxbc774557",
+                    "relativeUrl": "/video/ratios-of-distances-between-colinear-points",
+                    "slug": "ratios-of-distances-between-colinear-points",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "translatedDescription": "Veja Sal descobrir as coordenadas de um ponto entre dois outros pontos que criam uma certa razão.",
+                    "translatedTitle": "Divisão de segmentos de reta",
+                    "translatedYoutubeId": "0H27B1p3qWk",
+                    "__typename": "Video"
+                  },
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 280,
+                    "id": "x967aacb2",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "kaUrl": "https://pt.khanacademy.org/video/finding-a-point-part-way-between-two-points",
+                    "kind": "Video",
+                    "nodeSlug": "v/finding-a-point-part-way-between-two-points",
+                    "progressKey": "vx967aacb2",
+                    "relativeUrl": "/video/finding-a-point-part-way-between-two-points",
+                    "slug": "finding-a-point-part-way-between-two-points",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "translatedDescription": "Veja como descobrir as coordenadas de um ponto entre dois outros pontos que criam uma determinada razão. É dado um gráfico para facilitar a visualização do problema.",
+                    "translatedTitle": "Como dividir segmentos de reta: graficamente",
+                    "translatedYoutubeId": "YHTUWJ5fLjs",
+                    "__typename": "Video"
+                  }
+                ],
+                "problemTypes": [
+                  {
+                    "items": [
+                      {
+                        "id": "xeaccdd3b6300255e",
+                        "live": true,
+                        "sha": "f0d5bbd26161671d006feb388c000407ec8fa19c",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xafb783e8bcb12581",
+                        "live": true,
+                        "sha": "7bc61ba2afad0b9948c71af1cde8a41166d4c9b6",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xba5901467384701c",
+                        "live": true,
+                        "sha": "0b41682c6ee04a16e4656ed6326c6bd7d6f8bf3a",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xb3b3c0d3ad714049",
+                        "live": true,
+                        "sha": "ad8fe752b2c39974b2554468352b73f1dfbf168f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 1: AB:AC, Graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "x74f779e242eb1321",
+                        "live": true,
+                        "sha": "49d46f61d75abcd2f95f7ba0433e6dbabe223408",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x5c6b9e4d695e7f3e",
+                        "live": true,
+                        "sha": "4a27fd51a15914ddea64a8eb2c04de9120e5b568",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xa2887b2519f10f69",
+                        "live": true,
+                        "sha": "c7ff9bd39ce46a93283415a26a04030c3e9ed28c",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x69835e6569331580",
+                        "live": true,
+                        "sha": "982bd84a4977b5cf1f9893d0d641b8a25d7aaa4d",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 2: AB:BC, Graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "xeec5d26c8627536b",
+                        "live": true,
+                        "sha": "f12c459e694d518ff9854e07124afa3a0d7a5402",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xe47d36049b3aa2de",
+                        "live": true,
+                        "sha": "f8d6393e0c7beec2b1e5b3c82d45324db9378a27",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xf822b2768edd1292",
+                        "live": true,
+                        "sha": "9cd539e062cc651ab25c41104fadd72b43f01d63",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3923b28221953639",
+                        "live": true,
+                        "sha": "f37e7e51a30d643f5ef6b64054584f7e623f0d81",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 3: AB:AC, no graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "x74694a8200482f4e",
+                        "live": true,
+                        "sha": "36210bd91a767243b0bd79b38175862e38e9fa64",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x9712384b6a320992",
+                        "live": true,
+                        "sha": "53db919d435c8c23a8f71d9beeb756860f42032f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x7a8b189e65159eaf",
+                        "live": true,
+                        "sha": "45f1c42a7b8b3795a8bfa5451ab54fd2717ebe05",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x17921ced08096a5c",
+                        "live": true,
+                        "sha": "1c9989f211084e2578bd45625b1e90d94c86437f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 4: AB:BC, no graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  }
+                ],
+                "translatedProblemTypes": [],
+                "__typename": "Exercise"
+              },
+              "exercise": "dividing-line-segments",
+              "fpmMasteryLevel": "unfamiliar",
+              "lastAttemptNumber": 0,
+              "lastCountHints": 0,
+              "lastDone": null,
+              "lastMasteryUpdate": null,
+              "longestStreak": 0,
+              "maximumExerciseProgressDt": null,
+              "streak": 0,
+              "totalCorrect": 0,
+              "totalDone": 0,
+              "__typename": "UserExercise"
+            },
+            {
+              "exerciseModel": {
+                "id": "4514693",
+                "assessmentItemCount": 21,
+                "displayName": "Distance between two points",
+                "isQuiz": false,
+                "isSkillCheck": false,
+                "name": "distance_formula",
+                "nodeSlug": "e/distance_formula",
+                "progressKey": "e4514693",
+                "translatedDisplayName": "Distância entre dois pontos",
+                "relatedContent": [
+                  {
+                    "id": "x6c0e0c41583be82e",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                    "translatedTitle": "Como calcular distâncias usando o teorema de Pitágoras",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7fa91416",
+                            "kind": "Topic",
+                            "slug": "basic-geo",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xa9c7d564",
+                            "kind": "Topic",
+                            "slug": "basic-geometry-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x801e630422e6f8ed",
+                            "kind": "Topic",
+                            "slug": "pythagorean-theorem-distance",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x6c0e0c41583be82e",
+                            "kind": "Video",
+                            "slug": "example-finding-distance-with-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xfd2c08e989fece13",
+                            "kind": "Topic",
+                            "slug": "pt-9-ano",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7c715edd1691da2b",
+                            "kind": "Topic",
+                            "slug": "geometria-9ano",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x77d634abcda22942",
+                            "kind": "Topic",
+                            "slug": "teorema-de-pitagoras-e-distancia-entre-pontos",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x6c0e0c41583be82e",
+                            "kind": "Video",
+                            "slug": "example-finding-distance-with-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 221,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                    "kaUrl": "https://pt.khanacademy.org/video/example-finding-distance-with-pythagorean-theorem",
+                    "nodeSlug": "v/example-finding-distance-with-pythagorean-theorem",
+                    "relativeUrl": "/video/example-finding-distance-with-pythagorean-theorem",
+                    "slug": "example-finding-distance-with-pythagorean-theorem",
+                    "translatedYoutubeId": "TDri340OGaU",
+                    "__typename": "Video"
+                  },
+                  {
+                    "id": "23756",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                    "translatedTitle": "Fórmula da distância",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xff63fac4",
+                            "kind": "Topic",
+                            "slug": "geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaa176d24",
+                            "kind": "Topic",
+                            "slug": "hs-geo-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x1c72f7ac",
+                            "kind": "Topic",
+                            "slug": "hs-geo-distance-and-midpoints",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7fa91416",
+                            "kind": "Topic",
+                            "slug": "basic-geo",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xa9c7d564",
+                            "kind": "Topic",
+                            "slug": "basic-geometry-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x801e630422e6f8ed",
+                            "kind": "Topic",
+                            "slug": "pythagorean-theorem-distance",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x87125bde",
+                            "kind": "Topic",
+                            "slug": "math1",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x3cbe69b6",
+                            "kind": "Topic",
+                            "slug": "math1-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x321c251c",
+                            "kind": "Topic",
+                            "slug": "math1-distance-and-midpoints",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaf60b762",
+                            "kind": "Topic",
+                            "slug": "analytic-geometry-topic",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x53ddcd48",
+                            "kind": "Topic",
+                            "slug": "distance-and-midpoints",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5c2d563d",
+                            "kind": "Topic",
+                            "slug": "geometry-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbb714a0043ce5cde",
+                            "kind": "Topic",
+                            "slug": "pythagorean-distance-points",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xfd2c08e989fece13",
+                            "kind": "Topic",
+                            "slug": "pt-9-ano",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7c715edd1691da2b",
+                            "kind": "Topic",
+                            "slug": "geometria-9ano",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x77d634abcda22942",
+                            "kind": "Topic",
+                            "slug": "teorema-de-pitagoras-e-distancia-entre-pontos",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7c7044d7",
+                            "kind": "Topic",
+                            "slug": "cc-eighth-grade-math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7306f126",
+                            "kind": "Topic",
+                            "slug": "cc-8th-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5d2cbcd69c8a21af",
+                            "kind": "Topic",
+                            "slug": "pythagorean-distance",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 579,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                    "kaUrl": "https://pt.khanacademy.org/video/distance-formula",
+                    "nodeSlug": "v/distance-formula",
+                    "relativeUrl": "/video/distance-formula",
+                    "slug": "distance-formula",
+                    "translatedYoutubeId": "DryorIQ0Uvo",
+                    "__typename": "Video"
+                  }
+                ],
+                "relatedVideos": [
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 221,
+                    "id": "x6c0e0c41583be82e",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                    "kaUrl": "https://pt.khanacademy.org/video/example-finding-distance-with-pythagorean-theorem",
+                    "kind": "Video",
+                    "nodeSlug": "v/example-finding-distance-with-pythagorean-theorem",
+                    "progressKey": "vx6c0e0c41583be82e",
+                    "relativeUrl": "/video/example-finding-distance-with-pythagorean-theorem",
+                    "slug": "example-finding-distance-with-pythagorean-theorem",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                    "translatedDescription": "Neste vídeo, calculamos a distância entre dois pontos usando o teorema de Pitágoras.",
+                    "translatedTitle": "Como calcular distâncias usando o teorema de Pitágoras",
+                    "translatedYoutubeId": "TDri340OGaU",
+                    "__typename": "Video"
+                  },
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 579,
+                    "id": "23756",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                    "kaUrl": "https://pt.khanacademy.org/video/distance-formula",
+                    "kind": "Video",
+                    "nodeSlug": "v/distance-formula",
+                    "progressKey": "v23756",
+                    "relativeUrl": "/video/distance-formula",
+                    "slug": "distance-formula",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                    "translatedDescription": "Aprenda a calcular a distância entre dois pontos usando a fórmula da distância, que é uma aplicação do teorema de Pitágoras. Podemos reescrever o teorema de Pitágoras assim d=√((x_2-x_1)²+(y_2-y_1)²) para calcular a distância entre quaisquer dois pontos.",
+                    "translatedTitle": "Fórmula da distância",
+                    "translatedYoutubeId": "DryorIQ0Uvo",
+                    "__typename": "Video"
+                  }
+                ],
+                "problemTypes": [
+                  {
+                    "items": [
+                      {
+                        "id": "x2bf4ce9bb856d003",
+                        "live": true,
+                        "sha": "11643a3075bb4ab2a45d94dce7ade60cd0e5fa8b",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x988e7812b5eb4e9b",
+                        "live": true,
+                        "sha": "1955e60fc0d0d031e788b43b4d54627b5f28347d",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xd0740915570d6e2b",
+                        "live": true,
+                        "sha": "1ea819b57868c0ccc26f3ff9159c1cc9165f01bc",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x36fe74d2210a22d5",
+                        "live": true,
+                        "sha": "733dc98dca8c0cc9f511e5a4c763b32e33797a51",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xe2970c38eb61ed9e",
+                        "live": true,
+                        "sha": "79e81169027e45421d23110493590340c32b2625",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3c3c1872c06233d4",
+                        "live": true,
+                        "sha": "49f0da50e3853b8bda29b417d1be2ac78a452ccc",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3655a9298adc15cd",
+                        "live": true,
+                        "sha": "4832202169e112fa30850d9c6f95df506e0884b0",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Points (visual)",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "xb292ed785ef63dd2",
+                        "live": true,
+                        "sha": "bbca80f9bf6aaca80296daeab2e0679387b9b1fb",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x0392a744c70c9459",
+                        "live": true,
+                        "sha": "cae46ec5b4ec130fe7614cd4c737965a404f0e26",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x7fda10cec7548d53",
+                        "live": true,
+                        "sha": "3d8d2c3d5f13fb3abbcbc96a1e1e7d3d1209d253",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xa0cec3b1186ad9d4",
+                        "live": true,
+                        "sha": "15371797a7816db169afefbab1c6d8b07fb754c8",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xb92831092a75fbdd",
+                        "live": true,
+                        "sha": "843f055e49777f7bc2bb9b45dd06a0672787b1f7",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xb1790d57d4a4e82f",
+                        "live": true,
+                        "sha": "3ca574747bc2f89439c3c5afc043eb712f756780",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3a4a3f5974a76c41",
+                        "live": true,
+                        "sha": "50c24069c801d2c6d2a2223f707365d99ff13232",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Line",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "xf610d6f4a2634489",
+                        "live": true,
+                        "sha": "a60288df1aa4576da358a69c446a173a71bc82be",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x46893901052f1747",
+                        "live": true,
+                        "sha": "8a0776d63b534b715ff34bba3e54b77356aee144",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x042ef6ed77e7371e",
+                        "live": true,
+                        "sha": "ebb26ded1ad6bd2dc318cbe021c134ac0e68c09c",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xa26848841d5c62d5",
+                        "live": true,
+                        "sha": "202655ebf26b1edb97b1d55fa2bb697ead1b8f31",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3f2d5cc4a1af5e12",
+                        "live": true,
+                        "sha": "12daf4e5297843e8177b36767e3424c46fd2e62b",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x30ff3579be923356",
+                        "live": true,
+                        "sha": "41e4aff782aa444376fd7b1dc00098c92f5259cf",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x7193170d24f9e198",
+                        "live": true,
+                        "sha": "e09f39cf72afe4eb0c033bf2059ed2c1f4a5bdec",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Points (non visual)",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  }
+                ],
+                "translatedProblemTypes": [],
+                "__typename": "Exercise"
+              },
+              "exercise": "distance_formula",
+              "fpmMasteryLevel": "proficient",
+              "lastAttemptNumber": 0,
+              "lastCountHints": 0,
+              "lastDone": "2021-04-16T14:21:36Z",
+              "lastMasteryUpdate": "2021-04-16T14:21:37Z",
+              "longestStreak": 7,
+              "maximumExerciseProgressDt": "2021-04-16T14:21:37Z",
+              "streak": 7,
+              "totalCorrect": 7,
+              "totalDone": 7,
+              "__typename": "UserExercise"
+            },
+            {
+              "exerciseModel": {
+                "id": "xc9bcc09d",
+                "assessmentItemCount": 16,
+                "displayName": "Divide line segments",
+                "isQuiz": false,
+                "isSkillCheck": false,
+                "name": "dividing-line-segments",
+                "nodeSlug": "e/dividing-line-segments",
+                "progressKey": "exc9bcc09d",
+                "translatedDisplayName": "Divida segmentos de reta",
+                "relatedContent": [
+                  {
+                    "id": "xbc774557",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "translatedTitle": "Divisão de segmentos de reta",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xff63fac4",
+                            "kind": "Topic",
+                            "slug": "geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaa176d24",
+                            "kind": "Topic",
+                            "slug": "hs-geo-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x8fa7e774",
+                            "kind": "Topic",
+                            "slug": "hs-geo-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x87125bde",
+                            "kind": "Topic",
+                            "slug": "math1",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x3cbe69b6",
+                            "kind": "Topic",
+                            "slug": "math1-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5d27a788",
+                            "kind": "Topic",
+                            "slug": "math1-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaf60b762",
+                            "kind": "Topic",
+                            "slug": "analytic-geometry-topic",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x85fd66aa",
+                            "kind": "Topic",
+                            "slug": "cc-distances-between-points",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 338,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "kaUrl": "https://pt.khanacademy.org/video/ratios-of-distances-between-colinear-points",
+                    "nodeSlug": "v/ratios-of-distances-between-colinear-points",
+                    "relativeUrl": "/video/ratios-of-distances-between-colinear-points",
+                    "slug": "ratios-of-distances-between-colinear-points",
+                    "translatedYoutubeId": "0H27B1p3qWk",
+                    "__typename": "Video"
+                  },
+                  {
+                    "id": "x967aacb2",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "translatedTitle": "Como dividir segmentos de reta: graficamente",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xff63fac4",
+                            "kind": "Topic",
+                            "slug": "geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaa176d24",
+                            "kind": "Topic",
+                            "slug": "hs-geo-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x8fa7e774",
+                            "kind": "Topic",
+                            "slug": "hs-geo-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x87125bde",
+                            "kind": "Topic",
+                            "slug": "math1",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x3cbe69b6",
+                            "kind": "Topic",
+                            "slug": "math1-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5d27a788",
+                            "kind": "Topic",
+                            "slug": "math1-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaf60b762",
+                            "kind": "Topic",
+                            "slug": "analytic-geometry-topic",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x85fd66aa",
+                            "kind": "Topic",
+                            "slug": "cc-distances-between-points",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 280,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "kaUrl": "https://pt.khanacademy.org/video/finding-a-point-part-way-between-two-points",
+                    "nodeSlug": "v/finding-a-point-part-way-between-two-points",
+                    "relativeUrl": "/video/finding-a-point-part-way-between-two-points",
+                    "slug": "finding-a-point-part-way-between-two-points",
+                    "translatedYoutubeId": "YHTUWJ5fLjs",
+                    "__typename": "Video"
+                  }
+                ],
+                "relatedVideos": [
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 338,
+                    "id": "xbc774557",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "kaUrl": "https://pt.khanacademy.org/video/ratios-of-distances-between-colinear-points",
+                    "kind": "Video",
+                    "nodeSlug": "v/ratios-of-distances-between-colinear-points",
+                    "progressKey": "vxbc774557",
+                    "relativeUrl": "/video/ratios-of-distances-between-colinear-points",
+                    "slug": "ratios-of-distances-between-colinear-points",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "translatedDescription": "Veja Sal descobrir as coordenadas de um ponto entre dois outros pontos que criam uma certa razão.",
+                    "translatedTitle": "Divisão de segmentos de reta",
+                    "translatedYoutubeId": "0H27B1p3qWk",
+                    "__typename": "Video"
+                  },
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 280,
+                    "id": "x967aacb2",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "kaUrl": "https://pt.khanacademy.org/video/finding-a-point-part-way-between-two-points",
+                    "kind": "Video",
+                    "nodeSlug": "v/finding-a-point-part-way-between-two-points",
+                    "progressKey": "vx967aacb2",
+                    "relativeUrl": "/video/finding-a-point-part-way-between-two-points",
+                    "slug": "finding-a-point-part-way-between-two-points",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "translatedDescription": "Veja como descobrir as coordenadas de um ponto entre dois outros pontos que criam uma determinada razão. É dado um gráfico para facilitar a visualização do problema.",
+                    "translatedTitle": "Como dividir segmentos de reta: graficamente",
+                    "translatedYoutubeId": "YHTUWJ5fLjs",
+                    "__typename": "Video"
+                  }
+                ],
+                "problemTypes": [
+                  {
+                    "items": [
+                      {
+                        "id": "xeaccdd3b6300255e",
+                        "live": true,
+                        "sha": "f0d5bbd26161671d006feb388c000407ec8fa19c",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xafb783e8bcb12581",
+                        "live": true,
+                        "sha": "7bc61ba2afad0b9948c71af1cde8a41166d4c9b6",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xba5901467384701c",
+                        "live": true,
+                        "sha": "0b41682c6ee04a16e4656ed6326c6bd7d6f8bf3a",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xb3b3c0d3ad714049",
+                        "live": true,
+                        "sha": "ad8fe752b2c39974b2554468352b73f1dfbf168f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 1: AB:AC, Graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "x74f779e242eb1321",
+                        "live": true,
+                        "sha": "49d46f61d75abcd2f95f7ba0433e6dbabe223408",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x5c6b9e4d695e7f3e",
+                        "live": true,
+                        "sha": "4a27fd51a15914ddea64a8eb2c04de9120e5b568",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xa2887b2519f10f69",
+                        "live": true,
+                        "sha": "c7ff9bd39ce46a93283415a26a04030c3e9ed28c",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x69835e6569331580",
+                        "live": true,
+                        "sha": "982bd84a4977b5cf1f9893d0d641b8a25d7aaa4d",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 2: AB:BC, Graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "xeec5d26c8627536b",
+                        "live": true,
+                        "sha": "f12c459e694d518ff9854e07124afa3a0d7a5402",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xe47d36049b3aa2de",
+                        "live": true,
+                        "sha": "f8d6393e0c7beec2b1e5b3c82d45324db9378a27",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xf822b2768edd1292",
+                        "live": true,
+                        "sha": "9cd539e062cc651ab25c41104fadd72b43f01d63",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3923b28221953639",
+                        "live": true,
+                        "sha": "f37e7e51a30d643f5ef6b64054584f7e623f0d81",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 3: AB:AC, no graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "x74694a8200482f4e",
+                        "live": true,
+                        "sha": "36210bd91a767243b0bd79b38175862e38e9fa64",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x9712384b6a320992",
+                        "live": true,
+                        "sha": "53db919d435c8c23a8f71d9beeb756860f42032f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x7a8b189e65159eaf",
+                        "live": true,
+                        "sha": "45f1c42a7b8b3795a8bfa5451ab54fd2717ebe05",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x17921ced08096a5c",
+                        "live": true,
+                        "sha": "1c9989f211084e2578bd45625b1e90d94c86437f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 4: AB:BC, no graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  }
+                ],
+                "translatedProblemTypes": [],
+                "__typename": "Exercise"
+              },
+              "exercise": "dividing-line-segments",
+              "fpmMasteryLevel": "unfamiliar",
+              "lastAttemptNumber": 0,
+              "lastCountHints": 0,
+              "lastDone": null,
+              "lastMasteryUpdate": null,
+              "longestStreak": 0,
+              "maximumExerciseProgressDt": null,
+              "streak": 0,
+              "totalCorrect": 0,
+              "totalDone": 0,
+              "__typename": "UserExercise"
+            },
+            {
+              "exerciseModel": {
+                "id": "4514693",
+                "assessmentItemCount": 21,
+                "displayName": "Distance between two points",
+                "isQuiz": false,
+                "isSkillCheck": false,
+                "name": "distance_formula",
+                "nodeSlug": "e/distance_formula",
+                "progressKey": "e4514693",
+                "translatedDisplayName": "Distância entre dois pontos",
+                "relatedContent": [
+                  {
+                    "id": "x6c0e0c41583be82e",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                    "translatedTitle": "Como calcular distâncias usando o teorema de Pitágoras",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7fa91416",
+                            "kind": "Topic",
+                            "slug": "basic-geo",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xa9c7d564",
+                            "kind": "Topic",
+                            "slug": "basic-geometry-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x801e630422e6f8ed",
+                            "kind": "Topic",
+                            "slug": "pythagorean-theorem-distance",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x6c0e0c41583be82e",
+                            "kind": "Video",
+                            "slug": "example-finding-distance-with-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xfd2c08e989fece13",
+                            "kind": "Topic",
+                            "slug": "pt-9-ano",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7c715edd1691da2b",
+                            "kind": "Topic",
+                            "slug": "geometria-9ano",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x77d634abcda22942",
+                            "kind": "Topic",
+                            "slug": "teorema-de-pitagoras-e-distancia-entre-pontos",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x6c0e0c41583be82e",
+                            "kind": "Video",
+                            "slug": "example-finding-distance-with-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 221,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                    "kaUrl": "https://pt.khanacademy.org/video/example-finding-distance-with-pythagorean-theorem",
+                    "nodeSlug": "v/example-finding-distance-with-pythagorean-theorem",
+                    "relativeUrl": "/video/example-finding-distance-with-pythagorean-theorem",
+                    "slug": "example-finding-distance-with-pythagorean-theorem",
+                    "translatedYoutubeId": "TDri340OGaU",
+                    "__typename": "Video"
+                  },
+                  {
+                    "id": "23756",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                    "translatedTitle": "Fórmula da distância",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xff63fac4",
+                            "kind": "Topic",
+                            "slug": "geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaa176d24",
+                            "kind": "Topic",
+                            "slug": "hs-geo-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x1c72f7ac",
+                            "kind": "Topic",
+                            "slug": "hs-geo-distance-and-midpoints",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7fa91416",
+                            "kind": "Topic",
+                            "slug": "basic-geo",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xa9c7d564",
+                            "kind": "Topic",
+                            "slug": "basic-geometry-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x801e630422e6f8ed",
+                            "kind": "Topic",
+                            "slug": "pythagorean-theorem-distance",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x87125bde",
+                            "kind": "Topic",
+                            "slug": "math1",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x3cbe69b6",
+                            "kind": "Topic",
+                            "slug": "math1-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x321c251c",
+                            "kind": "Topic",
+                            "slug": "math1-distance-and-midpoints",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaf60b762",
+                            "kind": "Topic",
+                            "slug": "analytic-geometry-topic",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x53ddcd48",
+                            "kind": "Topic",
+                            "slug": "distance-and-midpoints",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5c2d563d",
+                            "kind": "Topic",
+                            "slug": "geometry-pythagorean-theorem",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbb714a0043ce5cde",
+                            "kind": "Topic",
+                            "slug": "pythagorean-distance-points",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xfd2c08e989fece13",
+                            "kind": "Topic",
+                            "slug": "pt-9-ano",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7c715edd1691da2b",
+                            "kind": "Topic",
+                            "slug": "geometria-9ano",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x77d634abcda22942",
+                            "kind": "Topic",
+                            "slug": "teorema-de-pitagoras-e-distancia-entre-pontos",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7c7044d7",
+                            "kind": "Topic",
+                            "slug": "cc-eighth-grade-math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x7306f126",
+                            "kind": "Topic",
+                            "slug": "cc-8th-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5d2cbcd69c8a21af",
+                            "kind": "Topic",
+                            "slug": "pythagorean-distance",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "23756",
+                            "kind": "Video",
+                            "slug": "distance-formula",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 579,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                    "kaUrl": "https://pt.khanacademy.org/video/distance-formula",
+                    "nodeSlug": "v/distance-formula",
+                    "relativeUrl": "/video/distance-formula",
+                    "slug": "distance-formula",
+                    "translatedYoutubeId": "DryorIQ0Uvo",
+                    "__typename": "Video"
+                  }
+                ],
+                "relatedVideos": [
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 221,
+                    "id": "x6c0e0c41583be82e",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                    "kaUrl": "https://pt.khanacademy.org/video/example-finding-distance-with-pythagorean-theorem",
+                    "kind": "Video",
+                    "nodeSlug": "v/example-finding-distance-with-pythagorean-theorem",
+                    "progressKey": "vx6c0e0c41583be82e",
+                    "relativeUrl": "/video/example-finding-distance-with-pythagorean-theorem",
+                    "slug": "example-finding-distance-with-pythagorean-theorem",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                    "translatedDescription": "Neste vídeo, calculamos a distância entre dois pontos usando o teorema de Pitágoras.",
+                    "translatedTitle": "Como calcular distâncias usando o teorema de Pitágoras",
+                    "translatedYoutubeId": "TDri340OGaU",
+                    "__typename": "Video"
+                  },
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 579,
+                    "id": "23756",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                    "kaUrl": "https://pt.khanacademy.org/video/distance-formula",
+                    "kind": "Video",
+                    "nodeSlug": "v/distance-formula",
+                    "progressKey": "v23756",
+                    "relativeUrl": "/video/distance-formula",
+                    "slug": "distance-formula",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                    "translatedDescription": "Aprenda a calcular a distância entre dois pontos usando a fórmula da distância, que é uma aplicação do teorema de Pitágoras. Podemos reescrever o teorema de Pitágoras assim d=√((x_2-x_1)²+(y_2-y_1)²) para calcular a distância entre quaisquer dois pontos.",
+                    "translatedTitle": "Fórmula da distância",
+                    "translatedYoutubeId": "DryorIQ0Uvo",
+                    "__typename": "Video"
+                  }
+                ],
+                "problemTypes": [
+                  {
+                    "items": [
+                      {
+                        "id": "x2bf4ce9bb856d003",
+                        "live": true,
+                        "sha": "11643a3075bb4ab2a45d94dce7ade60cd0e5fa8b",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x988e7812b5eb4e9b",
+                        "live": true,
+                        "sha": "1955e60fc0d0d031e788b43b4d54627b5f28347d",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xd0740915570d6e2b",
+                        "live": true,
+                        "sha": "1ea819b57868c0ccc26f3ff9159c1cc9165f01bc",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x36fe74d2210a22d5",
+                        "live": true,
+                        "sha": "733dc98dca8c0cc9f511e5a4c763b32e33797a51",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xe2970c38eb61ed9e",
+                        "live": true,
+                        "sha": "79e81169027e45421d23110493590340c32b2625",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3c3c1872c06233d4",
+                        "live": true,
+                        "sha": "49f0da50e3853b8bda29b417d1be2ac78a452ccc",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3655a9298adc15cd",
+                        "live": true,
+                        "sha": "4832202169e112fa30850d9c6f95df506e0884b0",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Points (visual)",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "xb292ed785ef63dd2",
+                        "live": true,
+                        "sha": "bbca80f9bf6aaca80296daeab2e0679387b9b1fb",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x0392a744c70c9459",
+                        "live": true,
+                        "sha": "cae46ec5b4ec130fe7614cd4c737965a404f0e26",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x7fda10cec7548d53",
+                        "live": true,
+                        "sha": "3d8d2c3d5f13fb3abbcbc96a1e1e7d3d1209d253",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xa0cec3b1186ad9d4",
+                        "live": true,
+                        "sha": "15371797a7816db169afefbab1c6d8b07fb754c8",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xb92831092a75fbdd",
+                        "live": true,
+                        "sha": "843f055e49777f7bc2bb9b45dd06a0672787b1f7",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xb1790d57d4a4e82f",
+                        "live": true,
+                        "sha": "3ca574747bc2f89439c3c5afc043eb712f756780",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3a4a3f5974a76c41",
+                        "live": true,
+                        "sha": "50c24069c801d2c6d2a2223f707365d99ff13232",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Line",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "xf610d6f4a2634489",
+                        "live": true,
+                        "sha": "a60288df1aa4576da358a69c446a173a71bc82be",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x46893901052f1747",
+                        "live": true,
+                        "sha": "8a0776d63b534b715ff34bba3e54b77356aee144",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x042ef6ed77e7371e",
+                        "live": true,
+                        "sha": "ebb26ded1ad6bd2dc318cbe021c134ac0e68c09c",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xa26848841d5c62d5",
+                        "live": true,
+                        "sha": "202655ebf26b1edb97b1d55fa2bb697ead1b8f31",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3f2d5cc4a1af5e12",
+                        "live": true,
+                        "sha": "12daf4e5297843e8177b36767e3424c46fd2e62b",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x30ff3579be923356",
+                        "live": true,
+                        "sha": "41e4aff782aa444376fd7b1dc00098c92f5259cf",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x7193170d24f9e198",
+                        "live": true,
+                        "sha": "e09f39cf72afe4eb0c033bf2059ed2c1f4a5bdec",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Points (non visual)",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  }
+                ],
+                "translatedProblemTypes": [],
+                "__typename": "Exercise"
+              },
+              "exercise": "distance_formula",
+              "fpmMasteryLevel": "proficient",
+              "lastAttemptNumber": 0,
+              "lastCountHints": 0,
+              "lastDone": "2021-04-16T14:21:36Z",
+              "lastMasteryUpdate": "2021-04-16T14:21:37Z",
+              "longestStreak": 7,
+              "maximumExerciseProgressDt": "2021-04-16T14:21:37Z",
+              "streak": 7,
+              "totalCorrect": 7,
+              "totalDone": 7,
+              "__typename": "UserExercise"
+            },
+            {
+              "exerciseModel": {
+                "id": "xc9bcc09d",
+                "assessmentItemCount": 16,
+                "displayName": "Divide line segments",
+                "isQuiz": false,
+                "isSkillCheck": false,
+                "name": "dividing-line-segments",
+                "nodeSlug": "e/dividing-line-segments",
+                "progressKey": "exc9bcc09d",
+                "translatedDisplayName": "Divida segmentos de reta",
+                "relatedContent": [
+                  {
+                    "id": "xbc774557",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "translatedTitle": "Divisão de segmentos de reta",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xff63fac4",
+                            "kind": "Topic",
+                            "slug": "geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaa176d24",
+                            "kind": "Topic",
+                            "slug": "hs-geo-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x8fa7e774",
+                            "kind": "Topic",
+                            "slug": "hs-geo-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x87125bde",
+                            "kind": "Topic",
+                            "slug": "math1",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x3cbe69b6",
+                            "kind": "Topic",
+                            "slug": "math1-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5d27a788",
+                            "kind": "Topic",
+                            "slug": "math1-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaf60b762",
+                            "kind": "Topic",
+                            "slug": "analytic-geometry-topic",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x85fd66aa",
+                            "kind": "Topic",
+                            "slug": "cc-distances-between-points",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xbc774557",
+                            "kind": "Video",
+                            "slug": "ratios-of-distances-between-colinear-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 338,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "kaUrl": "https://pt.khanacademy.org/video/ratios-of-distances-between-colinear-points",
+                    "nodeSlug": "v/ratios-of-distances-between-colinear-points",
+                    "relativeUrl": "/video/ratios-of-distances-between-colinear-points",
+                    "slug": "ratios-of-distances-between-colinear-points",
+                    "translatedYoutubeId": "0H27B1p3qWk",
+                    "__typename": "Video"
+                  },
+                  {
+                    "id": "x967aacb2",
+                    "contentKind": "Video",
+                    "kind": "Video",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "translatedTitle": "Como dividir segmentos de reta: graficamente",
+                    "topicPaths": [
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xff63fac4",
+                            "kind": "Topic",
+                            "slug": "geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaa176d24",
+                            "kind": "Topic",
+                            "slug": "hs-geo-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x8fa7e774",
+                            "kind": "Topic",
+                            "slug": "hs-geo-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x87125bde",
+                            "kind": "Topic",
+                            "slug": "math1",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x3cbe69b6",
+                            "kind": "Topic",
+                            "slug": "math1-analytic-geometry",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x5d27a788",
+                            "kind": "Topic",
+                            "slug": "math1-dividing-segments",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      },
+                      {
+                        "path": [
+                          {
+                            "id": "x7a488390",
+                            "kind": "Topic",
+                            "slug": "math",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x804fd857",
+                            "kind": "Topic",
+                            "slug": "geometry-home",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "xaf60b762",
+                            "kind": "Topic",
+                            "slug": "analytic-geometry-topic",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x85fd66aa",
+                            "kind": "Topic",
+                            "slug": "cc-distances-between-points",
+                            "__typename": "TopicPathSegment"
+                          },
+                          {
+                            "id": "x967aacb2",
+                            "kind": "Video",
+                            "slug": "finding-a-point-part-way-between-two-points",
+                            "__typename": "TopicPathSegment"
+                          }
+                        ],
+                        "__typename": "TopicPath"
+                      }
+                    ],
+                    "duration": 280,
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "kaUrl": "https://pt.khanacademy.org/video/finding-a-point-part-way-between-two-points",
+                    "nodeSlug": "v/finding-a-point-part-way-between-two-points",
+                    "relativeUrl": "/video/finding-a-point-part-way-between-two-points",
+                    "slug": "finding-a-point-part-way-between-two-points",
+                    "translatedYoutubeId": "YHTUWJ5fLjs",
+                    "__typename": "Video"
+                  }
+                ],
+                "relatedVideos": [
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 338,
+                    "id": "xbc774557",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "kaUrl": "https://pt.khanacademy.org/video/ratios-of-distances-between-colinear-points",
+                    "kind": "Video",
+                    "nodeSlug": "v/ratios-of-distances-between-colinear-points",
+                    "progressKey": "vxbc774557",
+                    "relativeUrl": "/video/ratios-of-distances-between-colinear-points",
+                    "slug": "ratios-of-distances-between-colinear-points",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                    "translatedDescription": "Veja Sal descobrir as coordenadas de um ponto entre dois outros pontos que criam uma certa razão.",
+                    "translatedTitle": "Divisão de segmentos de reta",
+                    "translatedYoutubeId": "0H27B1p3qWk",
+                    "__typename": "Video"
+                  },
+                  {
+                    "conceptTagsInfo": [],
+                    "contentKind": "Video",
+                    "duration": 280,
+                    "id": "x967aacb2",
+                    "imageUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "kaUrl": "https://pt.khanacademy.org/video/finding-a-point-part-way-between-two-points",
+                    "kind": "Video",
+                    "nodeSlug": "v/finding-a-point-part-way-between-two-points",
+                    "progressKey": "vx967aacb2",
+                    "relativeUrl": "/video/finding-a-point-part-way-between-two-points",
+                    "slug": "finding-a-point-part-way-between-two-points",
+                    "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                    "translatedDescription": "Veja como descobrir as coordenadas de um ponto entre dois outros pontos que criam uma determinada razão. É dado um gráfico para facilitar a visualização do problema.",
+                    "translatedTitle": "Como dividir segmentos de reta: graficamente",
+                    "translatedYoutubeId": "YHTUWJ5fLjs",
+                    "__typename": "Video"
+                  }
+                ],
+                "problemTypes": [
+                  {
+                    "items": [
+                      {
+                        "id": "xeaccdd3b6300255e",
+                        "live": true,
+                        "sha": "f0d5bbd26161671d006feb388c000407ec8fa19c",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xafb783e8bcb12581",
+                        "live": true,
+                        "sha": "7bc61ba2afad0b9948c71af1cde8a41166d4c9b6",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xba5901467384701c",
+                        "live": true,
+                        "sha": "0b41682c6ee04a16e4656ed6326c6bd7d6f8bf3a",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xb3b3c0d3ad714049",
+                        "live": true,
+                        "sha": "ad8fe752b2c39974b2554468352b73f1dfbf168f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 1: AB:AC, Graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "x74f779e242eb1321",
+                        "live": true,
+                        "sha": "49d46f61d75abcd2f95f7ba0433e6dbabe223408",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x5c6b9e4d695e7f3e",
+                        "live": true,
+                        "sha": "4a27fd51a15914ddea64a8eb2c04de9120e5b568",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xa2887b2519f10f69",
+                        "live": true,
+                        "sha": "c7ff9bd39ce46a93283415a26a04030c3e9ed28c",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x69835e6569331580",
+                        "live": true,
+                        "sha": "982bd84a4977b5cf1f9893d0d641b8a25d7aaa4d",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 2: AB:BC, Graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "xeec5d26c8627536b",
+                        "live": true,
+                        "sha": "f12c459e694d518ff9854e07124afa3a0d7a5402",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xe47d36049b3aa2de",
+                        "live": true,
+                        "sha": "f8d6393e0c7beec2b1e5b3c82d45324db9378a27",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "xf822b2768edd1292",
+                        "live": true,
+                        "sha": "9cd539e062cc651ab25c41104fadd72b43f01d63",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x3923b28221953639",
+                        "live": true,
+                        "sha": "f37e7e51a30d643f5ef6b64054584f7e623f0d81",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 3: AB:AC, no graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  },
+                  {
+                    "items": [
+                      {
+                        "id": "x74694a8200482f4e",
+                        "live": true,
+                        "sha": "36210bd91a767243b0bd79b38175862e38e9fa64",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x9712384b6a320992",
+                        "live": true,
+                        "sha": "53db919d435c8c23a8f71d9beeb756860f42032f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x7a8b189e65159eaf",
+                        "live": true,
+                        "sha": "45f1c42a7b8b3795a8bfa5451ab54fd2717ebe05",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      },
+                      {
+                        "id": "x17921ced08096a5c",
+                        "live": true,
+                        "sha": "1c9989f211084e2578bd45625b1e90d94c86437f",
+                        "__typename": "ProblemTypeAssessmentItem"
+                      }
+                    ],
+                    "name": "Type 4: AB:BC, no graph",
+                    "relatedVideos": [],
+                    "__typename": "ProblemType"
+                  }
+                ],
+                "translatedProblemTypes": [],
+                "__typename": "Exercise"
+              },
+              "exercise": "dividing-line-segments",
+              "fpmMasteryLevel": "unfamiliar",
+              "lastAttemptNumber": 0,
+              "lastCountHints": 0,
+              "lastDone": null,
+              "lastMasteryUpdate": null,
+              "longestStreak": 0,
+              "maximumExerciseProgressDt": null,
+              "streak": 0,
+              "totalCorrect": 0,
+              "totalDone": 0,
+              "__typename": "UserExercise"
+            }
+          ],
+          "__typename": "TopicQuizUserTask"
+        },
+        "__typename": "GetOrCreateExerciseTaskPayload"
+      },
+      "__typename": "GetOrCreateExerciseTaskMutation"
+    }
+  }
+}

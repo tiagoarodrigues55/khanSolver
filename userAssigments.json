@@ -1,0 +1,2510 @@
+{
+  "data": {
+    "user": {
+      "id": "kaid_226487931520381241914472",
+      "kaid": "kaid_226487931520381241914472",
+      "assignmentsPage": {
+        "assignments": [
+          {
+            "id": "5533994907959296",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLbFuaTqCQw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "xe7ed8da8",
+                "id": "xe7ed8da8",
+                "kind": "Exercise",
+                "title": "Variáveis independentes versus dependentes",
+                "defaultUrlPath": "/math/algebra/introduction-to-algebra/alg1-dependent-independent/e/dependent-and-independent-variables",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x73f542cc",
+                        "kind": "Topic",
+                        "slug": "introduction-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x63b073ab",
+                        "kind": "Topic",
+                        "slug": "alg1-dependent-independent",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xe7ed8da8",
+                        "kind": "Exercise",
+                        "slug": "dependent-and-independent-variables",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x04908aa2",
+                        "kind": "Topic",
+                        "slug": "pre-algebra-equations-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x260e967d1c421180",
+                        "kind": "Topic",
+                        "slug": "pre-algebra-dependent-independent",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xe7ed8da8",
+                        "kind": "Exercise",
+                        "slug": "dependent-and-independent-variables",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfee28fc8",
+                        "kind": "Topic",
+                        "slug": "alg-intro-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x037d07eb",
+                        "kind": "Topic",
+                        "slug": "alg-dependent-independent",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xe7ed8da8",
+                        "kind": "Exercise",
+                        "slug": "dependent-and-independent-variables",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0267d782",
+                        "kind": "Topic",
+                        "slug": "cc-sixth-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x98e0520f",
+                        "kind": "Topic",
+                        "slug": "cc-6th-equations-and-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x408693be",
+                        "kind": "Topic",
+                        "slug": "cc-6th-dependent-independent",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xe7ed8da8",
+                        "kind": "Exercise",
+                        "slug": "dependent-and-independent-variables",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x34e9dd8107ca5eda",
+                        "kind": "Topic",
+                        "slug": "em-mat-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xaeb1896aae8b282f",
+                        "kind": "Topic",
+                        "slug": "x34e9dd8107ca5eda:nocoes-elementares-da-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x3a4edecd98986596",
+                        "kind": "Topic",
+                        "slug": "x34e9dd8107ca5eda:variavel-dependente-e-variavel-independente",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xe7ed8da8",
+                        "kind": "Exercise",
+                        "slug": "dependent-and-independent-variables",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Faça exercícios para descobrir se uma variável é dependente ou independente.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "dependent-and-independent-variables",
+                "expectedDoNCount": 4,
+                "timeEstimate": {
+                  "lowerBound": 4,
+                  "upperBound": 6,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:19:25Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "completed",
+                "completedOn": "2019-06-24T13:46:58Z",
+                "bestScore": {
+                  "numCorrect": 4,
+                  "numAttempted": 4,
+                  "__typename": "BestScore"
+                },
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "4735009188315136",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLbl8860CAw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "x6c5ec8410aa13182",
+                "id": "x6c5ec8410aa13182",
+                "kind": "Exercise",
+                "title": "Tabelas de equações com duas variáveis",
+                "defaultUrlPath": "/math/algebra/introduction-to-algebra/alg1-dependent-independent/e/complete-a-table-from-a-two-variable-equation",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x73f542cc",
+                        "kind": "Topic",
+                        "slug": "introduction-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x63b073ab",
+                        "kind": "Topic",
+                        "slug": "alg1-dependent-independent",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6c5ec8410aa13182",
+                        "kind": "Exercise",
+                        "slug": "complete-a-table-from-a-two-variable-equation",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x04908aa2",
+                        "kind": "Topic",
+                        "slug": "pre-algebra-equations-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x260e967d1c421180",
+                        "kind": "Topic",
+                        "slug": "pre-algebra-dependent-independent",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6c5ec8410aa13182",
+                        "kind": "Exercise",
+                        "slug": "complete-a-table-from-a-two-variable-equation",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfee28fc8",
+                        "kind": "Topic",
+                        "slug": "alg-intro-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x037d07eb",
+                        "kind": "Topic",
+                        "slug": "alg-dependent-independent",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6c5ec8410aa13182",
+                        "kind": "Exercise",
+                        "slug": "complete-a-table-from-a-two-variable-equation",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0267d782",
+                        "kind": "Topic",
+                        "slug": "cc-sixth-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x98e0520f",
+                        "kind": "Topic",
+                        "slug": "cc-6th-equations-and-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x408693be",
+                        "kind": "Topic",
+                        "slug": "cc-6th-dependent-independent",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6c5ec8410aa13182",
+                        "kind": "Exercise",
+                        "slug": "complete-a-table-from-a-two-variable-equation",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x34e9dd8107ca5eda",
+                        "kind": "Topic",
+                        "slug": "em-mat-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xaeb1896aae8b282f",
+                        "kind": "Topic",
+                        "slug": "x34e9dd8107ca5eda:nocoes-elementares-da-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x3a4edecd98986596",
+                        "kind": "Topic",
+                        "slug": "x34e9dd8107ca5eda:variavel-dependente-e-variavel-independente",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6c5ec8410aa13182",
+                        "kind": "Exercise",
+                        "slug": "complete-a-table-from-a-two-variable-equation",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Complete uma tabela e identifique as coordenadas quando uma equação de duas variáveis é dada, por exemplo, y=2x+4.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "complete-a-table-from-a-two-variable-equation",
+                "expectedDoNCount": 4,
+                "timeEstimate": {
+                  "lowerBound": 4,
+                  "upperBound": 6,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:19:42Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "completed",
+                "completedOn": "2019-06-24T13:55:55Z",
+                "bestScore": {
+                  "numCorrect": 4,
+                  "numAttempted": 4,
+                  "__typename": "BestScore"
+                },
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "5925270723592192",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLbFiaDDCgw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "716798913",
+                "id": "716798913",
+                "kind": "Exercise",
+                "title": "Combinação de termos semelhantes com coeficientes negativos",
+                "defaultUrlPath": "/math/algebra/introduction-to-algebra/alg1-manipulating-expressions/e/combining_like_terms_1",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x73f542cc",
+                        "kind": "Topic",
+                        "slug": "introduction-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x1d50364e",
+                        "kind": "Topic",
+                        "slug": "alg1-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716798913",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xed0a1484",
+                        "kind": "Topic",
+                        "slug": "algebra-basics",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x93c46285",
+                        "kind": "Topic",
+                        "slug": "alg-basics-algebraic-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb9bbece4",
+                        "kind": "Topic",
+                        "slug": "alg-basics-combining-like-terms",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716798913",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfee28fc8",
+                        "kind": "Topic",
+                        "slug": "alg-intro-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xf825c9e8",
+                        "kind": "Topic",
+                        "slug": "alg-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716798913",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6b17ba59",
+                        "kind": "Topic",
+                        "slug": "cc-seventh-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0a8c9f98",
+                        "kind": "Topic",
+                        "slug": "cc-7th-variables-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0ddd7efd",
+                        "kind": "Topic",
+                        "slug": "cc-7th-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716798913",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x4a4d9de880b8328b",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:one-step-and-two-step-equations-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x40fa11efb759f647",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:untitled-1103",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716798913",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Simplifique as expressões algébricas combinando os termos semelhantes. Os coeficientes de alguns termos são negativos.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "combining_like_terms_1",
+                "expectedDoNCount": 7,
+                "timeEstimate": {
+                  "lowerBound": 7,
+                  "upperBound": 11,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:20:09Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "completed",
+                "completedOn": "2019-06-24T14:01:07Z",
+                "bestScore": {
+                  "numCorrect": 6,
+                  "numAttempted": 7,
+                  "__typename": "BestScore"
+                },
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "5228531196723200",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLbFpOqkCQw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "716812878",
+                "id": "716812878",
+                "kind": "Exercise",
+                "title": "Combinação de termos semelhantes com coeficientes negativos e distribuição",
+                "defaultUrlPath": "/math/algebra/introduction-to-algebra/alg1-manipulating-expressions/e/combining_like_terms_2",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x73f542cc",
+                        "kind": "Topic",
+                        "slug": "introduction-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x1d50364e",
+                        "kind": "Topic",
+                        "slug": "alg1-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716812878",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_2",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xed0a1484",
+                        "kind": "Topic",
+                        "slug": "algebra-basics",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x93c46285",
+                        "kind": "Topic",
+                        "slug": "alg-basics-algebraic-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb9bbece4",
+                        "kind": "Topic",
+                        "slug": "alg-basics-combining-like-terms",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716812878",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_2",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfee28fc8",
+                        "kind": "Topic",
+                        "slug": "alg-intro-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xf825c9e8",
+                        "kind": "Topic",
+                        "slug": "alg-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716812878",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_2",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6b17ba59",
+                        "kind": "Topic",
+                        "slug": "cc-seventh-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0a8c9f98",
+                        "kind": "Topic",
+                        "slug": "cc-7th-variables-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0ddd7efd",
+                        "kind": "Topic",
+                        "slug": "cc-7th-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716812878",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_2",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x4a4d9de880b8328b",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:one-step-and-two-step-equations-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x40fa11efb759f647",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:untitled-1103",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "716812878",
+                        "kind": "Exercise",
+                        "slug": "combining_like_terms_2",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Pratique combinar termos semelhantes usando a propriedade distributiva. Estes problemas envolvem soma e subtração de números negativos.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "combining_like_terms_2",
+                "expectedDoNCount": 4,
+                "timeEstimate": {
+                  "lowerBound": 4,
+                  "upperBound": 6,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:20:20Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "missed",
+                "completedOn": null,
+                "bestScore": null,
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "4651015331479552",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLalrsKhCAw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "x08db428f",
+                "id": "x08db428f",
+                "kind": "Exercise",
+                "title": "Combinação de termos semelhantes com coeficientes racionais",
+                "defaultUrlPath": "/math/algebra/introduction-to-algebra/alg1-manipulating-expressions/e/manipulating-linear-expressions-with-rational-coefficients",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x73f542cc",
+                        "kind": "Topic",
+                        "slug": "introduction-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x1d50364e",
+                        "kind": "Topic",
+                        "slug": "alg1-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x08db428f",
+                        "kind": "Exercise",
+                        "slug": "manipulating-linear-expressions-with-rational-coefficients",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xed0a1484",
+                        "kind": "Topic",
+                        "slug": "algebra-basics",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x93c46285",
+                        "kind": "Topic",
+                        "slug": "alg-basics-algebraic-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb9bbece4",
+                        "kind": "Topic",
+                        "slug": "alg-basics-combining-like-terms",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x08db428f",
+                        "kind": "Exercise",
+                        "slug": "manipulating-linear-expressions-with-rational-coefficients",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfee28fc8",
+                        "kind": "Topic",
+                        "slug": "alg-intro-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xf825c9e8",
+                        "kind": "Topic",
+                        "slug": "alg-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x08db428f",
+                        "kind": "Exercise",
+                        "slug": "manipulating-linear-expressions-with-rational-coefficients",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6b17ba59",
+                        "kind": "Topic",
+                        "slug": "cc-seventh-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0a8c9f98",
+                        "kind": "Topic",
+                        "slug": "cc-7th-variables-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0ddd7efd",
+                        "kind": "Topic",
+                        "slug": "cc-7th-manipulating-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x08db428f",
+                        "kind": "Exercise",
+                        "slug": "manipulating-linear-expressions-with-rational-coefficients",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x4a4d9de880b8328b",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:one-step-and-two-step-equations-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x40fa11efb759f647",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:untitled-1103",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x08db428f",
+                        "kind": "Exercise",
+                        "slug": "manipulating-linear-expressions-with-rational-coefficients",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Saiba como combinar termos semelhantes em expressões que têm coeficientes racionais. Isso requer a soma e a subtração de frações.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "manipulating-linear-expressions-with-rational-coefficients",
+                "expectedDoNCount": 4,
+                "timeEstimate": {
+                  "lowerBound": 4,
+                  "upperBound": 6,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:20:50Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "missed",
+                "completedOn": null,
+                "bestScore": null,
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "4520725619507200",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLalt_KDCAw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "xc85799e4",
+                "id": "xc85799e4",
+                "kind": "Exercise",
+                "title": "Expressões equivalentes",
+                "defaultUrlPath": "/math/algebra/introduction-to-algebra/alg1-equivalent-expressions/e/equivalent-forms-of-expressions-1",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x73f542cc",
+                        "kind": "Topic",
+                        "slug": "introduction-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb49a7c17",
+                        "kind": "Topic",
+                        "slug": "alg1-equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6dd80fb5226eb320",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:variables-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x8e8f2614c26a142f",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xed0a1484",
+                        "kind": "Topic",
+                        "slug": "algebra-basics",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x93c46285",
+                        "kind": "Topic",
+                        "slug": "alg-basics-algebraic-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x9364151b",
+                        "kind": "Topic",
+                        "slug": "alg-basics-equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfee28fc8",
+                        "kind": "Topic",
+                        "slug": "alg-intro-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xd0167283",
+                        "kind": "Topic",
+                        "slug": "alg-equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfd2c08e989fece13",
+                        "kind": "Topic",
+                        "slug": "pt-9-ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xce4e153881c83698",
+                        "kind": "Topic",
+                        "slug": "algebra-expressoes-algebricas-9ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x7efc8d58a08796c8",
+                        "kind": "Topic",
+                        "slug": "pt-introduo-fatorao",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x1b20fa0906f8bc27",
+                        "kind": "Topic",
+                        "slug": "prepare-se-para-o-ensino-medio-parte-3",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xeb4fd6bd78e69d64",
+                        "kind": "Topic",
+                        "slug": "x1b20fa0906f8bc27:fatoracao-de-polinomios",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x45076e244d691e02",
+                        "kind": "Topic",
+                        "slug": "x1b20fa0906f8bc27:introducao-a-fatoracao",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0267d782",
+                        "kind": "Topic",
+                        "slug": "cc-sixth-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x8ade30f9",
+                        "kind": "Topic",
+                        "slug": "cc-6th-expressions-and-variables",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xeeab8d0a",
+                        "kind": "Topic",
+                        "slug": "cc-6th-equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Saiba determinar se duas expressões algébricas são equivalentes ou não manipulando as expressões. Estes problemas exigem que você combine termos semelhantes e aplique a propriedade distributiva.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "equivalent-forms-of-expressions-1",
+                "expectedDoNCount": 7,
+                "timeEstimate": {
+                  "lowerBound": 7,
+                  "upperBound": 11,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:23:03Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "missed",
+                "completedOn": null,
+                "bestScore": null,
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "5979700844134400",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLbFmdDPCgw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "xc85799e4",
+                "id": "xc85799e4",
+                "kind": "Exercise",
+                "title": "Expressões equivalentes",
+                "defaultUrlPath": "/math/algebra/introduction-to-algebra/alg1-equivalent-expressions/e/equivalent-forms-of-expressions-1",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x73f542cc",
+                        "kind": "Topic",
+                        "slug": "introduction-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb49a7c17",
+                        "kind": "Topic",
+                        "slug": "alg1-equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6dd80fb5226eb320",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:variables-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x8e8f2614c26a142f",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xed0a1484",
+                        "kind": "Topic",
+                        "slug": "algebra-basics",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x93c46285",
+                        "kind": "Topic",
+                        "slug": "alg-basics-algebraic-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x9364151b",
+                        "kind": "Topic",
+                        "slug": "alg-basics-equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfee28fc8",
+                        "kind": "Topic",
+                        "slug": "alg-intro-to-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xd0167283",
+                        "kind": "Topic",
+                        "slug": "alg-equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfd2c08e989fece13",
+                        "kind": "Topic",
+                        "slug": "pt-9-ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xce4e153881c83698",
+                        "kind": "Topic",
+                        "slug": "algebra-expressoes-algebricas-9ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x7efc8d58a08796c8",
+                        "kind": "Topic",
+                        "slug": "pt-introduo-fatorao",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x1b20fa0906f8bc27",
+                        "kind": "Topic",
+                        "slug": "prepare-se-para-o-ensino-medio-parte-3",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xeb4fd6bd78e69d64",
+                        "kind": "Topic",
+                        "slug": "x1b20fa0906f8bc27:fatoracao-de-polinomios",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x45076e244d691e02",
+                        "kind": "Topic",
+                        "slug": "x1b20fa0906f8bc27:introducao-a-fatoracao",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0267d782",
+                        "kind": "Topic",
+                        "slug": "cc-sixth-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x8ade30f9",
+                        "kind": "Topic",
+                        "slug": "cc-6th-expressions-and-variables",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xeeab8d0a",
+                        "kind": "Topic",
+                        "slug": "cc-6th-equivalent-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc85799e4",
+                        "kind": "Exercise",
+                        "slug": "equivalent-forms-of-expressions-1",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Saiba determinar se duas expressões algébricas são equivalentes ou não manipulando as expressões. Estes problemas exigem que você combine termos semelhantes e aplique a propriedade distributiva.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "equivalent-forms-of-expressions-1",
+                "expectedDoNCount": 7,
+                "timeEstimate": {
+                  "lowerBound": 7,
+                  "upperBound": 11,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:21:52Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "missed",
+                "completedOn": null,
+                "bestScore": null,
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "6187698795413504",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLal3vX-Cgw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "x91b960d3",
+                "id": "x91b960d3",
+                "kind": "Exercise",
+                "title": "Como testar as soluções de uma inequação",
+                "defaultUrlPath": "/math/algebra/one-variable-linear-inequalities/alg1-inequalities/e/testing-solutions-of-inequalities",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x468c6c9a",
+                        "kind": "Topic",
+                        "slug": "one-variable-linear-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xf2fd2625",
+                        "kind": "Topic",
+                        "slug": "alg1-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x91b960d3",
+                        "kind": "Exercise",
+                        "slug": "testing-solutions-of-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x70bad2b9",
+                        "kind": "Topic",
+                        "slug": "alg-basic-eq-ineq",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6f1f3fb1",
+                        "kind": "Topic",
+                        "slug": "alg-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x91b960d3",
+                        "kind": "Exercise",
+                        "slug": "testing-solutions-of-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6a2222f1cf6da07e",
+                        "kind": "Topic",
+                        "slug": "pt-7-ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xf507a4171f772551",
+                        "kind": "Topic",
+                        "slug": "algebra-inequacoes-7ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x7c18bc3a056bc1d8",
+                        "kind": "Topic",
+                        "slug": "introducao-a-inequacoes-com-variaveis",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x91b960d3",
+                        "kind": "Exercise",
+                        "slug": "testing-solutions-of-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6b17ba59",
+                        "kind": "Topic",
+                        "slug": "cc-seventh-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0a8c9f98",
+                        "kind": "Topic",
+                        "slug": "cc-7th-variables-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x91d7b7d5",
+                        "kind": "Topic",
+                        "slug": "cc-7th-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x91b960d3",
+                        "kind": "Exercise",
+                        "slug": "testing-solutions-of-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x4a4d9de880b8328b",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:one-step-and-two-step-equations-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x22bb927a38b5ace2",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:one-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x91b960d3",
+                        "kind": "Exercise",
+                        "slug": "testing-solutions-of-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Pratique inserir valores em inequações, como 2x<14, e verificar se as inequações se mantêm verdadeiras.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "testing-solutions-of-inequalities",
+                "expectedDoNCount": 4,
+                "timeEstimate": {
+                  "lowerBound": 4,
+                  "upperBound": 6,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:24:48Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "missed",
+                "completedOn": null,
+                "bestScore": null,
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "5549482627137536",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLblmeftCQw",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "205299729",
+                "id": "205299729",
+                "kind": "Exercise",
+                "title": "Inequações de uma etapa",
+                "defaultUrlPath": "/math/algebra/one-variable-linear-inequalities/alg1-one-step-inequalities/e/one_step_inequalities",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x468c6c9a",
+                        "kind": "Topic",
+                        "slug": "one-variable-linear-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xfd144994",
+                        "kind": "Topic",
+                        "slug": "alg1-one-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "205299729",
+                        "kind": "Exercise",
+                        "slug": "one_step_inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xed0a1484",
+                        "kind": "Topic",
+                        "slug": "algebra-basics",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x649777e8",
+                        "kind": "Topic",
+                        "slug": "alg-basics-linear-equations-and-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x4906a73d",
+                        "kind": "Topic",
+                        "slug": "alg-basics-one-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "205299729",
+                        "kind": "Exercise",
+                        "slug": "one_step_inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x70bad2b9",
+                        "kind": "Topic",
+                        "slug": "alg-basic-eq-ineq",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xe21ae57c",
+                        "kind": "Topic",
+                        "slug": "alg-one-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "205299729",
+                        "kind": "Exercise",
+                        "slug": "one_step_inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6a2222f1cf6da07e",
+                        "kind": "Topic",
+                        "slug": "pt-7-ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xf507a4171f772551",
+                        "kind": "Topic",
+                        "slug": "algebra-inequacoes-7ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x63474bf4ce5b9713",
+                        "kind": "Topic",
+                        "slug": "inequacoes-de-uma-etapa",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "205299729",
+                        "kind": "Exercise",
+                        "slug": "one_step_inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6b17ba59",
+                        "kind": "Topic",
+                        "slug": "cc-seventh-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0a8c9f98",
+                        "kind": "Topic",
+                        "slug": "cc-7th-variables-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x91d7b7d5",
+                        "kind": "Topic",
+                        "slug": "cc-7th-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "205299729",
+                        "kind": "Exercise",
+                        "slug": "one_step_inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x4a4d9de880b8328b",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:one-step-and-two-step-equations-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x22bb927a38b5ace2",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:one-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "205299729",
+                        "kind": "Exercise",
+                        "slug": "one_step_inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Resolução de inequações em uma única etapa.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "one_step_inequalities",
+                "expectedDoNCount": 7,
+                "timeEstimate": {
+                  "lowerBound": 7,
+                  "upperBound": 11,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:25:03Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "missed",
+                "completedOn": null,
+                "bestScore": null,
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          },
+          {
+            "id": "6729913150046208",
+            "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLaVoJr6Cww",
+            "subjectSlug": "algebra",
+            "contents": [
+              {
+                "contentId": "x3cc0ea41",
+                "id": "x3cc0ea41",
+                "kind": "Exercise",
+                "title": "Inequações de duas etapas",
+                "defaultUrlPath": "/math/algebra/one-variable-linear-inequalities/alg1-two-step-inequalities/e/solving-2-step-inequalities",
+                "topicPaths": [
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xcf876fe7",
+                        "kind": "Topic",
+                        "slug": "algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x468c6c9a",
+                        "kind": "Topic",
+                        "slug": "one-variable-linear-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x332adb05",
+                        "kind": "Topic",
+                        "slug": "alg1-two-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x3cc0ea41",
+                        "kind": "Exercise",
+                        "slug": "solving-2-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xed0a1484",
+                        "kind": "Topic",
+                        "slug": "algebra-basics",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x649777e8",
+                        "kind": "Topic",
+                        "slug": "alg-basics-linear-equations-and-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xd34b5bf4",
+                        "kind": "Topic",
+                        "slug": "alg-basics-two-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x3cc0ea41",
+                        "kind": "Exercise",
+                        "slug": "solving-2-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0eb19e7d",
+                        "kind": "Topic",
+                        "slug": "algebra-home",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x70bad2b9",
+                        "kind": "Topic",
+                        "slug": "alg-basic-eq-ineq",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xe12f6ed5",
+                        "kind": "Topic",
+                        "slug": "alg-two-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x3cc0ea41",
+                        "kind": "Exercise",
+                        "slug": "solving-2-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6a2222f1cf6da07e",
+                        "kind": "Topic",
+                        "slug": "pt-7-ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xf507a4171f772551",
+                        "kind": "Topic",
+                        "slug": "algebra-inequacoes-7ano",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xeffb85d5de383cc0",
+                        "kind": "Topic",
+                        "slug": "inequacoes-de-duas-etapas",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x3cc0ea41",
+                        "kind": "Exercise",
+                        "slug": "solving-2-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x6b17ba59",
+                        "kind": "Topic",
+                        "slug": "cc-seventh-grade-math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0a8c9f98",
+                        "kind": "Topic",
+                        "slug": "cc-7th-variables-expressions",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x0f212889",
+                        "kind": "Topic",
+                        "slug": "cc-7th-two-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x3cc0ea41",
+                        "kind": "Exercise",
+                        "slug": "solving-2-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  },
+                  {
+                    "path": [
+                      {
+                        "id": "x7a488390",
+                        "kind": "Topic",
+                        "slug": "math",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xb4832e56",
+                        "kind": "Topic",
+                        "slug": "pre-algebra",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x4a4d9de880b8328b",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:one-step-and-two-step-equations-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "xc8b689269b7c7674",
+                        "kind": "Topic",
+                        "slug": "xb4832e56:two-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      },
+                      {
+                        "id": "x3cc0ea41",
+                        "kind": "Exercise",
+                        "slug": "solving-2-step-inequalities",
+                        "__typename": "TopicPathSegment"
+                      }
+                    ],
+                    "__typename": "TopicPath"
+                  }
+                ],
+                "description": "Resolva inequações em duas etapas. Por exemplo, resolva 3x + 2 > 5.",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                "slug": "solving-2-step-inequalities",
+                "expectedDoNCount": 7,
+                "timeEstimate": {
+                  "lowerBound": 7,
+                  "upperBound": 11,
+                  "__typename": "TimeEstimate"
+                },
+                "__typename": "Exercise"
+              }
+            ],
+            "assignedDate": "2019-06-24T13:25:17Z",
+            "dueDate": "2019-06-26T02:59:00Z",
+            "studentList": {
+              "id": "5754903989321728",
+              "cacheId": "ag5zfmtoYW4tYWNhZGVteXJsCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZTA2Yzk0NjNlZTNkNDMyYzhhZjIwNDY5YjFlYzU3OGYMCxILU3R1ZGVudExpc3QYgICAgODBnAoM",
+              "name": "1ª série B (Escola Viva 2018)",
+              "__typename": "StudentList"
+            },
+            "totalCompletionStates": [
+              {
+                "student": {
+                  "id": "kaid_226487931520381241914472",
+                  "kaid": "kaid_226487931520381241914472",
+                  "__typename": "User"
+                },
+                "state": "missed",
+                "completedOn": null,
+                "bestScore": null,
+                "__typename": "ItemCompletionState"
+              }
+            ],
+            "exerciseConfig": {
+              "itemPickerStrategy": "RANDOM",
+              "__typename": "ExerciseAssignmentConfig"
+            },
+            "__typename": "Assignment"
+          }
+        ],
+        "pageInfo": {
+          "nextCursor": "CooBChUKCGR1ZV9kYXRlEgkIgIr_0JOG4wIKGQoMc3ViamVjdF9zbHVnEgkaB2FsZ2VicmEKJwohY29udGVudF9pbmRleF93aXRoaW5fc3ViamVjdF90cmVlEgIIchIpag5zfmtoYW4tYWNhZGVteXIXCxIKQXNzaWdubWVudBiAgLaVoJr6CwwYACAB",
+          "__typename": "PageInfo"
+        },
+        "__typename": "AssignmentsPage"
+      },
+      "__typename": "User"
+    }
+  }
+}

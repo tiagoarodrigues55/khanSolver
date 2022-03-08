@@ -1,0 +1,1147 @@
+{
+  "componentProps": {
+    "curation": {
+      "canonicalUrl": "/math/geometry-home/analytic-geometry-topic",
+      "initialTabUrl": "/math/geometry-home/analytic-geometry-topic?lang=pt&open=1",
+      "domain": "math",
+      "domainId": "x7a488390",
+      "attribution": null,
+      "description": "Na geometria analu00edtica, tambu00e9m conhecida como geometria cartesiana, pensamos sobre objetos geomu00e9tricos no plano cartesiano. Por exemplo, podemos ver que lados opostos de um paralelogramo su00e3o paralelos escrevendo uma equau00e7u00e3o linear para cada lado e verificando que seus coeficientes angulares su00e3o iguais.",
+      "renderedPath": "math/geometry-home/analytic-geometry-topic",
+      "title": "Geometria analu00edtica",
+      "courseId": "x804fd857",
+      "breadcrumbs": [
+        {
+          "href": "/math/geometry-home",
+          "title": "Geometria (todo o conteu00fado)"
+        }
+      ],
+      "isUnlisted": false,
+      "ancestorTopics": [
+        {
+          "title": "Matemu00e1tica",
+          "depth": 1,
+          "href": "/math",
+          "renderType": "Domain",
+          "slug": "math"
+        },
+        {
+          "title": "Geometria (todo o conteu00fado)",
+          "depth": 2,
+          "href": "/math/geometry-home",
+          "renderType": "Subject",
+          "slug": "geometry-home"
+        }
+      ],
+      "subject": "geometry-home",
+      "standards": [],
+      "searchSchema": "",
+      "tabs": [
+        {
+          "modules": [
+            {
+              "kind": "TopicProgress",
+              "videoAttribution": null,
+              "quizzes": {
+                "distance-between-a-point-and-a-line": {
+                  "contentDescriptor": "TopicQuiz:x96000f6e076120df",
+                  "kind": "InterspersedQuiz",
+                  "timeEstimate": {
+                    "lowerBound": 12,
+                    "upperBound": 16
+                  },
+                  "title": "Questionu00e1rio 3",
+                  "contentId": "x96000f6e076120df",
+                  "masteryEnabled": false,
+                  "domain": "math",
+                  "subjectMasteryEnabled": false,
+                  "tutorials": [
+                    {
+                      "id": "x93d18f5e"
+                    },
+                    {
+                      "id": "x14e2d49a"
+                    },
+                    {
+                      "id": "xbfee413f"
+                    }
+                  ],
+                  "quizIndex": 3,
+                  "positionKey": "ag5zfmtoYW4tYWNhZGVteXIUCxIFVG9waWMiCXhiZmVlNDEzZgw",
+                  "positionSlug": "quiz-3",
+                  "numItems": 5,
+                  "type": "quiz",
+                  "slug": "distance-between-a-point-and-a-line-quiz"
+                },
+                "geometry-problems-coordinate-pla": {
+                  "contentDescriptor": "TopicQuiz:xddcbfbd41031930a",
+                  "kind": "InterspersedQuiz",
+                  "timeEstimate": {
+                    "lowerBound": 5,
+                    "upperBound": 10
+                  },
+                  "title": "Questionu00e1rio 2",
+                  "contentId": "xddcbfbd41031930a",
+                  "masteryEnabled": false,
+                  "domain": "math",
+                  "subjectMasteryEnabled": false,
+                  "tutorials": [
+                    {
+                      "id": "x3ec29bd9"
+                    }
+                  ],
+                  "quizIndex": 2,
+                  "positionKey": "ag5zfmtoYW4tYWNhZGVteXIUCxIFVG9waWMiCXgzZWMyOWJkOQw",
+                  "positionSlug": "quiz-2",
+                  "numItems": 5,
+                  "type": "quiz",
+                  "slug": "geometry-problems-coordinate-pla-quiz"
+                },
+                "cc-distances-between-points": {
+                  "contentDescriptor": "TopicQuiz:x556e0116edc566a7",
+                  "kind": "InterspersedQuiz",
+                  "timeEstimate": {
+                    "lowerBound": 17,
+                    "upperBound": 21
+                  },
+                  "title": "Questionu00e1rio 1",
+                  "contentId": "x556e0116edc566a7",
+                  "masteryEnabled": false,
+                  "domain": "math",
+                  "subjectMasteryEnabled": false,
+                  "tutorials": [
+                    {
+                      "id": "x53ddcd48"
+                    },
+                    {
+                      "id": "x85fd66aa"
+                    }
+                  ],
+                  "quizIndex": 1,
+                  "positionKey": "ag5zfmtoYW4tYWNhZGVteXIUCxIFVG9waWMiCXg4NWZkNjZhYQw",
+                  "positionSlug": "quiz-1",
+                  "numItems": 5,
+                  "type": "quiz",
+                  "slug": "cc-distances-between-points-quiz"
+                }
+              },
+              "unitTest": {
+                "contentDescriptor": "TopicUnitTest:xda48223c643fc6de",
+                "kind": "InterspersedQuiz",
+                "timeEstimate": {
+                  "lowerBound": 9,
+                  "upperBound": 18
+                },
+                "title": "Teste da unidade",
+                "contentId": "xda48223c643fc6de",
+                "masteryEnabled": false,
+                "domain": "math",
+                "subjectMasteryEnabled": false,
+                "numItems": 9,
+                "tutorials": [
+                  {
+                    "id": "x53ddcd48"
+                  },
+                  {
+                    "id": "x85fd66aa"
+                  },
+                  {
+                    "id": "x3ec29bd9"
+                  },
+                  {
+                    "id": "x93d18f5e"
+                  },
+                  {
+                    "id": "x14e2d49a"
+                  },
+                  {
+                    "id": "xbfee413f"
+                  }
+                ],
+                "type": "test",
+                "slug": "analytic-geometry-topic-unit-test"
+              },
+              "topic": {
+                "description": "Na geometria analu00edtica, tambu00e9m conhecida como geometria cartesiana, pensamos sobre objetos geomu00e9tricos no plano cartesiano. Por exemplo, podemos ver que lados opostos de um paralelogramo su00e3o paralelos escrevendo uma equau00e7u00e3o linear para cada lado e verificando que seus coeficientes angulares su00e3o iguais.",
+                "title": "Geometria analu00edtica",
+                "masteryEnabled": false,
+                "subjectMasteryEnabled": false,
+                "hasUserAuthoredContent": false,
+                "id": "xaf60b762",
+                "slug": "analytic-geometry-topic"
+              },
+              "nextTopic": {
+                "previous": {
+                  "url": "/math/geometry-home/cc-geometry-circles",
+                  "kind": "topic",
+                  "title": "Cu00edrculos"
+                },
+                "next": {
+                  "url": "/math/geometry-home/geometric-constructions",
+                  "kind": "topic",
+                  "title": "Construu00e7u00f5es geomu00e9tricas"
+                }
+              },
+              "experienceUpsell": null,
+              "tutorials": [
+                {
+                  "slug": "distance-and-midpoints",
+                  "description": "Calcule a distu00e2ncia entre dois pontos ou o ponto central entre dois pontos.",
+                  "title": "Distu00e2ncia e pontos centrais",
+                  "url": "/math/geometry-home/analytic-geometry-topic#distance-and-midpoints",
+                  "contentItems": [
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/v/distance-formula",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Aprenda a calcular a distu00e2ncia entre dois pontos usando a fu00f3rmula da distu00e2ncia, que u00e9 uma aplicau00e7u00e3o do teorema de Pitu00e1goras. Podemos reescrever o teorema de Pitu00e1goras assim d=u221a((x_2-x_1)u00b2+(y_2-y_1)u00b2) para calcular a distu00e2ncia entre quaisquer dois pontos.",
+                      "title": "Fu00f3rmula da distu00e2ncia",
+                      "contentId": "23756",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/DryorIQ0Uvo.mp4/DryorIQ0Uvo.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/DryorIQ0Uvo.mp4/DryorIQ0Uvo.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/DryorIQ0Uvo.m3u8/DryorIQ0Uvo.m3u8"
+                      },
+                      "translatedYoutubeId": "DryorIQ0Uvo",
+                      "sponsored": false,
+                      "youtubeId": "nyZuite17Pc",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 579,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/maCCgPGbvIWgjx9RXq9aqWkv53nqUgjYX1g_mL2TovqWJWe7aMfobUo0fHkpffnDPGUYTdnsZJI0-KqwUuloQvY",
+                      "slug": "distance-formula",
+                      "progressKey": "v23756"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/a/distance-formula",
+                      "kind": "Article",
+                      "description": "Aprenda a derivar uma fu00f3rmula geral para a distu00e2ncia entre dois pontos",
+                      "title": "Fu00f3rmula da distu00e2ncia",
+                      "contentId": "x26f36960",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_article"
+                      ],
+                      "sponsored": false,
+                      "progressKey": "ax26f36960",
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+                      "slug": "distance-formula"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/e/distance_formula",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Use o teorema de Pitu00e1goras para encontrar a distu00e2ncia entre dois pontos no plano cartesiano.",
+                      "title": "Distu00e2ncia entre dois pontos",
+                      "contentId": "4514693",
+                      "masteryEnabled": false,
+                      "slug": "distance_formula",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "e4514693",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/v/example-finding-distance-with-pythagorean-theorem",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "Neste vu00eddeo, calculamos a distu00e2ncia entre dois pontos usando o teorema de Pitu00e1goras.",
+                          "title": "Como calcular distu00e2ncias usando o teorema de Pitu00e1goras",
+                          "contentId": "x6c0e0c41583be82e",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                          "translatedYoutubeId": "TDri340OGaU",
+                          "youtubeId": "apkT6rVE8qo",
+                          "duration": 221,
+                          "slug": "example-finding-distance-with-pythagorean-theorem"
+                        }
+                      ],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 7,
+                      "timeEstimate": {
+                        "lowerBound": 7,
+                        "upperBound": 11
+                      }
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/v/midpoint-formula",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Aprenda a usar a fu00f3rmula do ponto mu00e9dio para encontrar o ponto mu00e9dio de um segmento de reta no plano cartesiano, ou para encontrar a extremidade de um segmento de reta, dado um ponto e o ponto mu00e9dio.",
+                      "title": "Fu00f3rmula do ponto mu00e9dio",
+                      "contentId": "23758",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/_bgBkucM7e4.mp4/_bgBkucM7e4.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/_bgBkucM7e4.mp4/_bgBkucM7e4.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/_bgBkucM7e4.m3u8/_bgBkucM7e4.m3u8"
+                      },
+                      "translatedYoutubeId": "_bgBkucM7e4",
+                      "sponsored": false,
+                      "youtubeId": "Ez_-RwV9WVo",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 401,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/pgicOl1FNc2Lajs3hWf9n1wWpmIPvgPUx3ho55sgM_ggKhrOAgfiDYKP9VtwoVZIlIsjoKw1jAwArcqTkZbZ1aA",
+                      "slug": "midpoint-formula",
+                      "progressKey": "v23758"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/a/midpoint-formula",
+                      "kind": "Article",
+                      "description": "Aprenda a escrever uma fu00f3rmula geral para o ponto central entre dois pontos.",
+                      "title": "Fu00f3rmula do ponto mu00e9dio",
+                      "contentId": "xd4d8a4bb",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_article"
+                      ],
+                      "sponsored": false,
+                      "progressKey": "axd4d8a4bb",
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+                      "slug": "midpoint-formula"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/e/midpoint_formula",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Encontre o ponto mu00e9dio de um segmento no plano cartesiano ou encontre o ponto final de um segmento, dados um ponto e o ponto mu00e9dio.",
+                      "title": "Fu00f3rmula do ponto mu00e9dio",
+                      "contentId": "13090861",
+                      "masteryEnabled": false,
+                      "slug": "midpoint_formula",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "e13090861",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/a/distance-formula-review",
+                      "kind": "Article",
+                      "description": "Revise a fu00f3rmula da distu00e2ncia e relembre como aplicu00e1-la para resolver problemas.",
+                      "title": "Revisu00e3o da fu00f3rmula da distu00e2ncia",
+                      "contentId": "x8053eafb",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_article"
+                      ],
+                      "sponsored": false,
+                      "progressKey": "ax8053eafb",
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+                      "slug": "distance-formula-review"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/a/midpoint-formula-review",
+                      "kind": "Article",
+                      "description": "Revise a fu00f3rmula do ponto central e relembre como aplicu00e1-la para resolver problemas.",
+                      "title": "Revisu00e3o da fu00f3rmula do ponto central",
+                      "contentId": "x49884c29",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_article"
+                      ],
+                      "sponsored": false,
+                      "progressKey": "ax49884c29",
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+                      "slug": "midpoint-formula-review"
+                    }
+                  ],
+                  "standards": [],
+                  "id": "x53ddcd48"
+                },
+                {
+                  "slug": "cc-distances-between-points",
+                  "description": "Pense nas razu00f5es entre os comprimentos de segmentos entre pontos.",
+                  "title": "Divisu00e3o de segmentos de reta",
+                  "url": "/math/geometry-home/analytic-geometry-topic#cc-distances-between-points",
+                  "contentItems": [
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/cc-distances-between-points/v/finding-a-point-part-way-between-two-points",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Veja como descobrir as coordenadas de um ponto entre dois outros pontos que criam uma determinada razu00e3o. u00c9 dado um gru00e1fico para facilitar a visualizau00e7u00e3o do problema.",
+                      "title": "Como dividir segmentos de reta: graficamente",
+                      "contentId": "x967aacb2",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/YHTUWJ5fLjs.mp4/YHTUWJ5fLjs.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/YHTUWJ5fLjs.mp4/YHTUWJ5fLjs.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/YHTUWJ5fLjs.m3u8/YHTUWJ5fLjs.m3u8"
+                      },
+                      "translatedYoutubeId": "YHTUWJ5fLjs",
+                      "sponsored": false,
+                      "youtubeId": "0rlNHYHhrWs",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 280,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                      "slug": "finding-a-point-part-way-between-two-points",
+                      "progressKey": "vx967aacb2"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/cc-distances-between-points/v/ratios-of-distances-between-colinear-points",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Veja Sal descobrir as coordenadas de um ponto entre dois outros pontos que criam uma certa razu00e3o.",
+                      "title": "Divisu00e3o de segmentos de reta",
+                      "contentId": "xbc774557",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/0H27B1p3qWk.mp4/0H27B1p3qWk.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/0H27B1p3qWk.mp4/0H27B1p3qWk.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/0H27B1p3qWk.m3u8/0H27B1p3qWk.m3u8"
+                      },
+                      "translatedYoutubeId": "0H27B1p3qWk",
+                      "sponsored": false,
+                      "youtubeId": "lEGS5ECgFxE",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 338,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                      "slug": "ratios-of-distances-between-colinear-points",
+                      "progressKey": "vxbc774557"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/cc-distances-between-points/e/dividing-line-segments",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Descubra as coordenadas de um ponto entre dois outros pontos que criam uma certa razu00e3o. Por exemplo, encontre um ponto B de modo que ele esteja a dois teru00e7os de distu00e2ncia entre o ponto A e o ponto C.",
+                      "title": "Divida segmentos de reta",
+                      "contentId": "xc9bcc09d",
+                      "masteryEnabled": false,
+                      "slug": "dividing-line-segments",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "exc9bcc09d",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/cc-distances-between-points/v/ratios-of-distances-between-colinear-points",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "Veja Sal descobrir as coordenadas de um ponto entre dois outros pontos que criam uma certa razu00e3o.",
+                          "title": "Divisu00e3o de segmentos de reta",
+                          "contentId": "xbc774557",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/aHCu8dDG3jWvyCSlGG54z_aJffuRpNTjpWXqnyzYFdVJqsjJd0iyj4ue9I16nZsnMiNEYZX8xuUJ4uzUHECSvJJu",
+                          "translatedYoutubeId": "0H27B1p3qWk",
+                          "youtubeId": "lEGS5ECgFxE",
+                          "duration": 338,
+                          "slug": "ratios-of-distances-between-colinear-points"
+                        },
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/cc-distances-between-points/v/finding-a-point-part-way-between-two-points",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "Veja como descobrir as coordenadas de um ponto entre dois outros pontos que criam uma determinada razu00e3o. u00c9 dado um gru00e1fico para facilitar a visualizau00e7u00e3o do problema.",
+                          "title": "Como dividir segmentos de reta: graficamente",
+                          "contentId": "x967aacb2",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/g7TOdac7WX-4gw_PcibpMCgKa7aoLewl39wuLg7dQ6x23R5dgJ6aQiakMEs-E0ttbcO2JsaVZ3ZZgQQfL6A5aX-6",
+                          "translatedYoutubeId": "YHTUWJ5fLjs",
+                          "youtubeId": "0rlNHYHhrWs",
+                          "duration": 280,
+                          "slug": "finding-a-point-part-way-between-two-points"
+                        }
+                      ],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    }
+                  ],
+                  "standards": [],
+                  "id": "x85fd66aa"
+                },
+                {
+                  "slug": "geometry-problems-coordinate-pla",
+                  "description": "Use o que sabe sobre distu00e2ncias para resolver problemas no plano cartesiano, como calcular o peru00edmetro de uma forma ou determinar se um ponto estu00e1 sobre uma circunferu00eancia.",
+                  "title": "Soluu00e7u00e3o de problemas com distu00e2ncias no plano cartesiano",
+                  "url": "/math/geometry-home/analytic-geometry-topic#geometry-problems-coordinate-pla",
+                  "contentItems": [
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/v/area-of-trapezoid-on-coordinate-plane",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Neste vu00eddeo, calculamos a u00e1rea de um trapu00e9zio usando a fu00f3rmula da distu00e2ncia e a fu00f3rmula da u00e1rea do trapu00e9zio.",
+                      "title": "u00c1rea de um trapu00e9zio no plano cartesiano",
+                      "contentId": "x07456d4c",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/1L3xPRncHD4.mp4/1L3xPRncHD4.mp4",
+                        "mp4-low": "https://cdn.kastatic.org/ka-youtube-converted/1L3xPRncHD4.mp4-low/1L3xPRncHD4-low.mp4",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/1L3xPRncHD4.m3u8/1L3xPRncHD4.m3u8",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/1L3xPRncHD4.mp4/1L3xPRncHD4.png",
+                        "mp4-low-ios": "https://cdn.kastatic.org/ka-youtube-converted/1L3xPRncHD4.mp4-low-ios/1L3xPRncHD4-low-ios.mp4"
+                      },
+                      "translatedYoutubeId": "1L3xPRncHD4",
+                      "sponsored": false,
+                      "youtubeId": "3AxyrK2jYc8",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 414,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                      "slug": "area-of-trapezoid-on-coordinate-plane",
+                      "progressKey": "vx07456d4c"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/e/find-area-and-perimeter-on-the-coordinate-plane",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Calcule a u00e1rea ou peru00edmetro de formas como triu00e2ngulos, retu00e2ngulos, paralelogramos e hexu00e1gonos no plano cartesiano.",
+                      "title": "u00c1rea e peru00edmetro no plano cartesiano",
+                      "contentId": "x2a6cc09a",
+                      "masteryEnabled": false,
+                      "slug": "find-area-and-perimeter-on-the-coordinate-plane",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "ex2a6cc09a",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/v/area-of-trapezoid-on-coordinate-plane",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "Neste vu00eddeo, calculamos a u00e1rea de um trapu00e9zio usando a fu00f3rmula da distu00e2ncia e a fu00f3rmula da u00e1rea do trapu00e9zio.",
+                          "title": "u00c1rea de um trapu00e9zio no plano cartesiano",
+                          "contentId": "x07456d4c",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                          "translatedYoutubeId": "1L3xPRncHD4",
+                          "youtubeId": "3AxyrK2jYc8",
+                          "duration": 414,
+                          "slug": "area-of-trapezoid-on-coordinate-plane"
+                        }
+                      ],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/v/point-relative-to-circle",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Neste vu00eddeo, usamos a fu00f3rmula da distu00e2ncia para determinar se o ponto (-6,-6) estu00e1 dentro, fora, ou sobre a circunferu00eancia centralizada em (-1,-3), cujo raio u00e9 6.",
+                      "title": "Pontos dentro/fora/sobre uma circunferu00eancia",
+                      "contentId": "x4dbb5644",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/m6UZjJpi39A.mp4/m6UZjJpi39A.mp4",
+                        "mp4-low": "https://cdn.kastatic.org/ka-youtube-converted/m6UZjJpi39A.mp4-low/m6UZjJpi39A-low.mp4",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/m6UZjJpi39A.m3u8/m6UZjJpi39A.m3u8",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/m6UZjJpi39A.mp4/m6UZjJpi39A.png",
+                        "mp4-low-ios": "https://cdn.kastatic.org/ka-youtube-converted/m6UZjJpi39A.mp4-low-ios/m6UZjJpi39A-low-ios.mp4"
+                      },
+                      "translatedYoutubeId": "m6UZjJpi39A",
+                      "sponsored": false,
+                      "youtubeId": "S6BHQMk8C_A",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 233,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                      "slug": "point-relative-to-circle",
+                      "progressKey": "vx4dbb5644"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/e/geometry-problems-on-the-coordinate-plane",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Dado o centro e raio de uma circunferu00eancia, determine se um ponto estu00e1 dentro, fora, ou sobre a circunferu00eancia",
+                      "title": "Pontos dentro/fora/sobre uma circunferu00eancia",
+                      "contentId": "xc0060b75",
+                      "masteryEnabled": false,
+                      "slug": "geometry-problems-on-the-coordinate-plane",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "exc0060b75",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/v/point-relative-to-circle",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "Neste vu00eddeo, usamos a fu00f3rmula da distu00e2ncia para determinar se o ponto (-6,-6) estu00e1 dentro, fora, ou sobre a circunferu00eancia centralizada em (-1,-3), cujo raio u00e9 6.",
+                          "title": "Pontos dentro/fora/sobre uma circunferu00eancia",
+                          "contentId": "x4dbb5644",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                          "translatedYoutubeId": "m6UZjJpi39A",
+                          "youtubeId": "S6BHQMk8C_A",
+                          "duration": 233,
+                          "slug": "point-relative-to-circle"
+                        }
+                      ],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/v/recognizing-points-on-a-circle",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Veja como resolver um problema desafiador, no qual devemos determinar se pontos pertencem a duas, uma ou nenhuma circunferu00eancia.",
+                      "title": "Desafio: pontos em duas circunferu00eancias",
+                      "contentId": "x93881235",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/6HckXWSgCU8.mp4/6HckXWSgCU8.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/6HckXWSgCU8.mp4/6HckXWSgCU8.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/6HckXWSgCU8.m3u8/6HckXWSgCU8.m3u8"
+                      },
+                      "translatedYoutubeId": "6HckXWSgCU8",
+                      "sponsored": false,
+                      "youtubeId": "9ASWQi14FlE",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 621,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/QpnaOql7WHezGA3kuCR0fUHwxngPYLnf-N3hpkgPH61-y18oEqpkeA2N9Pcyb6ityud9acLt8Goswu4D1BGmKXJjFw",
+                      "slug": "recognizing-points-on-a-circle",
+                      "progressKey": "vx93881235"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/v/minions-within-reach-of-wizard",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Veja como resolver um exemplo em que devemos determinar quais dos su00faditos do mal um feiticeiro pode atingir usando o plano cartesiano.",
+                      "title": "Problema no plano cartesiano",
+                      "contentId": "x63e2adb6",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/TFfUl07PaTY.mp4/TFfUl07PaTY.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/TFfUl07PaTY.mp4/TFfUl07PaTY.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/TFfUl07PaTY.m3u8/TFfUl07PaTY.m3u8"
+                      },
+                      "translatedYoutubeId": "TFfUl07PaTY",
+                      "sponsored": false,
+                      "youtubeId": "gS6s3MGZlRc",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 352,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/VGHwCbORAdlFM3qLc-MZV3RjNZ1YhC967p4wqiBCmEcLtod7pwSWtvYGHzEcWkT-KcJSVt8dKWmCjwZrbU9MOB12",
+                      "slug": "minions-within-reach-of-wizard",
+                      "progressKey": "vx63e2adb6"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/e/coordinate-plane-word-problems-with-polygons",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Resolva todos os tipos de problemas com contextos malucos que usem polu00edgonos no plano cartesiano.",
+                      "title": "Problemas de planos cartesianos: polu00edgonos",
+                      "contentId": "xf88e76bd",
+                      "masteryEnabled": false,
+                      "slug": "coordinate-plane-word-problems-with-polygons",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "exf88e76bd",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/v/minions-within-reach-of-wizard",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "Veja como resolver um exemplo em que devemos determinar quais dos su00faditos do mal um feiticeiro pode atingir usando o plano cartesiano.",
+                          "title": "Problema no plano cartesiano",
+                          "contentId": "x63e2adb6",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/VGHwCbORAdlFM3qLc-MZV3RjNZ1YhC967p4wqiBCmEcLtod7pwSWtvYGHzEcWkT-KcJSVt8dKWmCjwZrbU9MOB12",
+                          "translatedYoutubeId": "TFfUl07PaTY",
+                          "youtubeId": "gS6s3MGZlRc",
+                          "duration": 352,
+                          "slug": "minions-within-reach-of-wizard"
+                        }
+                      ],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla/v/classfying-a-quadrilateral-on-the-coordinate-plane",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Veja como classificar um quadrilu00e1tero como quadrado, losango, retu00e2ngulo, paralelogramo ou trapu00e9zio, dados seus quatro vu00e9rtices.",
+                      "title": "Classificau00e7u00e3o de quadrilu00e1teros no plano cartesiano",
+                      "contentId": "x4f7e87ad",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/LGVDG7v-Cn0.mp4/LGVDG7v-Cn0.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/LGVDG7v-Cn0.mp4/LGVDG7v-Cn0.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/LGVDG7v-Cn0.m3u8/LGVDG7v-Cn0.m3u8"
+                      },
+                      "translatedYoutubeId": "LGVDG7v-Cn0",
+                      "sponsored": false,
+                      "youtubeId": "vsgrWDLEzcQ",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 308,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/4xHgj50OcXE4kBDlCRGRb9QUwrwd501oBlFjW53sOtHBqDonB_8ev6TWOvaTwEoUaXX2oh_p5EF299jFSvB6cuqq",
+                      "slug": "classfying-a-quadrilateral-on-the-coordinate-plane",
+                      "progressKey": "vx4f7e87ad"
+                    }
+                  ],
+                  "standards": [],
+                  "id": "x3ec29bd9"
+                },
+                {
+                  "slug": "parallel-perpendicular-lines-coordinate-plane",
+                  "description": "Vocu00ea provavelmente sabe o que su00e3o retas paralelas e perpendiculares. Neste tutorial, vocu00ea aprenderu00e1 como essas relau00e7u00f5es su00e3o expressas no plano cartesiano (spoiler: retas paralelas tu00eam o mesmo coeficiente angular, e o produto dos coeficientes angulares de retas perpendiculares u00e9 sempre -1).",
+                  "title": "Retas paralelas e perpendiculares no plano cartesiano",
+                  "url": "/math/geometry-home/analytic-geometry-topic#parallel-perpendicular-lines-coordinate-plane",
+                  "contentItems": [
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-perpendicular-lines-coordinate-plane/v/parallel-and-perpendicular-lines-intro",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Retas paralelas nunca se cruzam, e retas perpendiculares se cruzam em um u00e2ngulo de 90 graus. Aprenda a identificar retas paralelas e perpendiculares.",
+                      "title": "Introduu00e7u00e3o a retas paralelas e perpendiculares",
+                      "contentId": "xe3c54f14",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/frEs-cOPeVU.mp4/frEs-cOPeVU.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/frEs-cOPeVU.mp4/frEs-cOPeVU.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/frEs-cOPeVU.m3u8/frEs-cOPeVU.m3u8"
+                      },
+                      "translatedYoutubeId": "frEs-cOPeVU",
+                      "sponsored": false,
+                      "youtubeId": "V0xounKGEXs",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 128,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/CRTGzDu0cHddrkhiOFmwrkf50_2Kd0kMEh9xECcGSiBHgA0RMavpcbIUUkOTzPKm6jUKCuCa1fUipy280HvNtevJEQ",
+                      "slug": "parallel-and-perpendicular-lines-intro",
+                      "progressKey": "vxe3c54f14"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-perpendicular-lines-coordinate-plane/v/classify-lines",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Os coeficientes de retas paralelas su00e3o iguais, e os coeficientes de retas perpendiculares su00e3o opostos. Este u00e9 um exemplo pru00e1tico de como determinar se as retas dadas su00e3o paralelas ou perpendiculares.",
+                      "title": "Retas paralelas e perpendiculares a partir do gru00e1fico",
+                      "contentId": "x36e2a7ae",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/n73PIWz9iA4.mp4/n73PIWz9iA4.mp4",
+                        "mp4-low": "https://cdn.kastatic.org/ka-youtube-converted/n73PIWz9iA4.mp4-low/n73PIWz9iA4-low.mp4",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/n73PIWz9iA4.m3u8/n73PIWz9iA4.m3u8",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/n73PIWz9iA4.mp4/n73PIWz9iA4.png",
+                        "mp4-low-ios": "https://cdn.kastatic.org/ka-youtube-converted/n73PIWz9iA4.mp4-low-ios/n73PIWz9iA4-low-ios.mp4"
+                      },
+                      "translatedYoutubeId": "n73PIWz9iA4",
+                      "sponsored": false,
+                      "youtubeId": "vi-QMiNR5lc",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 446,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                      "slug": "classify-lines",
+                      "progressKey": "vx36e2a7ae"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-perpendicular-lines-coordinate-plane/e/classifying-lines-as-parallel--perpendicular--or-neither",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Dados pontos pelos quais duas retas passam ou o gru00e1fico de cada reta, classifique as retas como paralelas, perpendiculares ou nenhuma das opu00e7u00f5es.",
+                      "title": "Retas paralelas e perpendiculares a partir do gru00e1fico",
+                      "contentId": "xe6a773ee",
+                      "masteryEnabled": false,
+                      "slug": "classifying-lines-as-parallel--perpendicular--or-neither",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "exe6a773ee",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-perpendicular-lines-coordinate-plane/v/classify-lines",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "Os coeficientes de retas paralelas su00e3o iguais, e os coeficientes de retas perpendiculares su00e3o opostos. Este u00e9 um exemplo pru00e1tico de como determinar se as retas dadas su00e3o paralelas ou perpendiculares.",
+                          "title": "Retas paralelas e perpendiculares a partir do gru00e1fico",
+                          "contentId": "x36e2a7ae",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                          "translatedYoutubeId": "n73PIWz9iA4",
+                          "youtubeId": "vi-QMiNR5lc",
+                          "duration": 446,
+                          "slug": "classify-lines"
+                        }
+                      ],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    }
+                  ],
+                  "standards": [],
+                  "id": "x93d18f5e"
+                },
+                {
+                  "slug": "parallel-and-perpendicular",
+                  "description": "Aprenda tudo sobre as equau00e7u00f5es de retas paralelas e perpendiculares",
+                  "title": "Equau00e7u00f5es de retas paralelas e perpendiculares",
+                  "url": "/math/geometry-home/analytic-geometry-topic#parallel-and-perpendicular",
+                  "contentItems": [
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/parallel-lines",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Neste vu00eddeo, determinamos quais pares entre algumas equau00e7u00f5es lineares dadas su00e3o paralelos.",
+                      "title": "Retas paralelas a partir da equau00e7u00e3o",
+                      "contentId": "26808",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/OqCaIWyAl7E.mp4/OqCaIWyAl7E.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/OqCaIWyAl7E.mp4/OqCaIWyAl7E.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/OqCaIWyAl7E.m3u8/OqCaIWyAl7E.m3u8"
+                      },
+                      "translatedYoutubeId": "OqCaIWyAl7E",
+                      "sponsored": false,
+                      "youtubeId": "T-aCweuimis",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 228,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                      "slug": "parallel-lines",
+                      "progressKey": "v26808"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/parallel-lines-2",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Neste vu00eddeo, determinamos quais pares entre algumas equau00e7u00f5es lineares dadas su00e3o paralelos.",
+                      "title": "Retas paralelas a partir da equau00e7u00e3o (exemplo 2)",
+                      "contentId": "26809",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/a4TY6ednPBg.mp4/a4TY6ednPBg.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/a4TY6ednPBg.mp4/a4TY6ednPBg.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/a4TY6ednPBg.m3u8/a4TY6ednPBg.m3u8"
+                      },
+                      "translatedYoutubeId": "a4TY6ednPBg",
+                      "sponsored": false,
+                      "youtubeId": "lOWXZFP8Vuc",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 183,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                      "slug": "parallel-lines-2",
+                      "progressKey": "v26809"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/parallel-lines-3",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Neste vu00eddeo, determinamos quais pares entre algumas equau00e7u00f5es lineares dadas su00e3o paralelos.",
+                      "title": "Retas paralelas a partir da equau00e7u00e3o (exemplo 3)",
+                      "contentId": "26810",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/jBsOIAJtoBw.mp4/jBsOIAJtoBw.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/jBsOIAJtoBw.mp4/jBsOIAJtoBw.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/jBsOIAJtoBw.m3u8/jBsOIAJtoBw.m3u8"
+                      },
+                      "translatedYoutubeId": "jBsOIAJtoBw",
+                      "sponsored": false,
+                      "youtubeId": "y5yNi08cr6I",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 162,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/wBD4KiCH8IKJzQuL8qfyxfgxB4b6G0gMdIh01tD-LP0QR2sIs9KG_MS1W-33x6KS7uu-LV7Kjs-yOxyvF4AlDcsc",
+                      "slug": "parallel-lines-3",
+                      "progressKey": "v26810"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/perpendicular-lines",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Neste vu00eddeo, determinamos quais pares entre algumas equau00e7u00f5es lineares dadas su00e3o perpendiculares.",
+                      "title": "Retas perpendiculares a partir da equau00e7u00e3o",
+                      "contentId": "26811",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/i68hFxS1uAs.mp4/i68hFxS1uAs.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/i68hFxS1uAs.mp4/i68hFxS1uAs.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/i68hFxS1uAs.m3u8/i68hFxS1uAs.m3u8"
+                      },
+                      "translatedYoutubeId": "i68hFxS1uAs",
+                      "sponsored": false,
+                      "youtubeId": "0671cRNjeKI",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 209,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ToK5085KU5PyT8lezB_joGJzsGZShdf7GDME18ZnGWMnFwpsFHun0MHdk46kXEGfsW4_h5XHUXNmPBaC4GqNABm_",
+                      "slug": "perpendicular-lines",
+                      "progressKey": "v26811"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/e/line_relationships",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Use as equau00e7u00f5es de um par de retas para decidir se elas se interceptam ou nu00e3o. Se sim, elas su00e3o perpendiculares? Se nu00e3o, elas su00e3o diferentes ou su00e3o a mesma reta?",
+                      "title": "Retas paralelas e perpendiculares a partir da equau00e7u00e3o",
+                      "contentId": "13179420",
+                      "masteryEnabled": false,
+                      "slug": "line_relationships",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "e13179420",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/perpendicular-lines-2",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Dados a reta A e o ponto P, encontramos a equau00e7u00e3o da reta perpendicular a A que passa por P.",
+                      "title": "Como escrever equau00e7u00f5es de retas perpendiculares",
+                      "contentId": "26812",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/FSnqaGVowug.mp4/FSnqaGVowug.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/FSnqaGVowug.mp4/FSnqaGVowug.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/FSnqaGVowug.m3u8/FSnqaGVowug.m3u8"
+                      },
+                      "translatedYoutubeId": "FSnqaGVowug",
+                      "sponsored": false,
+                      "youtubeId": "TsEhZRT16LU",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 181,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/iqgHQBQH8RIda2Dk7Tlk8BGlj7D6QV7z2WlzkC3iej9kQYm0qjH-N4qMQlXVgn4RoQJwj3stj1evZruOswSsGi6i",
+                      "slug": "perpendicular-lines-2",
+                      "progressKey": "v26812"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/find-the-equation-of-a-line",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Sal encontra a equau00e7u00e3o de uma reta perpendicular a uma reta dada na forma da equau00e7u00e3o reduzida da reta e que passa por um ponto especu00edfico.",
+                      "title": "Como escrever equau00e7u00f5es de retas perpendiculares (exemplo 2)",
+                      "contentId": "xbded91b9",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/7-ElK78V7wA.mp4/7-ElK78V7wA.mp4",
+                        "mp4-low": "https://cdn.kastatic.org/ka-youtube-converted/7-ElK78V7wA.mp4-low/7-ElK78V7wA-low.mp4",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/7-ElK78V7wA.m3u8/7-ElK78V7wA.m3u8",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/7-ElK78V7wA.mp4/7-ElK78V7wA.png",
+                        "mp4-low-ios": "https://cdn.kastatic.org/ka-youtube-converted/7-ElK78V7wA.mp4-low-ios/7-ElK78V7wA-low-ios.mp4"
+                      },
+                      "translatedYoutubeId": "7-ElK78V7wA",
+                      "sponsored": false,
+                      "youtubeId": "n3jTrQj0-48",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 105,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                      "slug": "find-the-equation-of-a-line",
+                      "progressKey": "vxbded91b9"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/e/writing-equations-for-parallel-or-perpendicular-lines",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Escreva a equau00e7u00e3o de uma reta paralela ou perpendicular u00e0 uma reta dada na forma da equau00e7u00e3o reduzida da reta, e que passa por um ponto especu00edfico.",
+                      "title": "Escreva equau00e7u00f5es de retas paralelas e perpendiculares",
+                      "contentId": "x6886eb67",
+                      "masteryEnabled": false,
+                      "slug": "writing-equations-for-parallel-or-perpendicular-lines",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "ex6886eb67",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/find-the-equation-of-a-line",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "Sal encontra a equau00e7u00e3o de uma reta perpendicular a uma reta dada na forma da equau00e7u00e3o reduzida da reta e que passa por um ponto especu00edfico.",
+                          "title": "Como escrever equau00e7u00f5es de retas perpendiculares (exemplo 2)",
+                          "contentId": "xbded91b9",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                          "translatedYoutubeId": "7-ElK78V7wA",
+                          "youtubeId": "n3jTrQj0-48",
+                          "duration": 105,
+                          "slug": "find-the-equation-of-a-line"
+                        }
+                      ],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/proving-that-parallel-lines-have-the-same-slope",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Neste vu00eddeo, demonstramos que retas paralelas tu00eam o mesmo coeficiente angular usando a semelhanu00e7a de triu00e2ngulos.",
+                      "title": "Prova: retas paralelas tu00eam o mesmo coeficiente angular",
+                      "contentId": "x9e89ebd8",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/p-BvM7xWt2w.mp4/p-BvM7xWt2w.mp4",
+                        "mp4-low": "https://cdn.kastatic.org/ka-youtube-converted/p-BvM7xWt2w.mp4-low/p-BvM7xWt2w-low.mp4",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/p-BvM7xWt2w.m3u8/p-BvM7xWt2w.m3u8",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/p-BvM7xWt2w.mp4/p-BvM7xWt2w.png",
+                        "mp4-low-ios": "https://cdn.kastatic.org/ka-youtube-converted/p-BvM7xWt2w.mp4-low-ios/p-BvM7xWt2w-low-ios.mp4"
+                      },
+                      "translatedYoutubeId": "p-BvM7xWt2w",
+                      "sponsored": false,
+                      "youtubeId": "9ZYoIliBXYE",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 349,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                      "slug": "proving-that-parallel-lines-have-the-same-slope",
+                      "progressKey": "vx9e89ebd8"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/parallel-and-perpendicular/v/proof-that-perpendicular-lines-have-negative-reciprocal-slope",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "Por meio da semelhanu00e7a de triu00e2ngulos, demonstramos que retas perpendiculares tu00eam coeficientes angulares opostos e inversos.",
+                      "title": "Demonstrau00e7u00e3o: retas perpendiculares tu00eam coeficientes angulares opostos e inversos.",
+                      "contentId": "x058b41f0",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/iPn_vM1-mYw.mp4/iPn_vM1-mYw.mp4",
+                        "mp4-low": "https://cdn.kastatic.org/ka-youtube-converted/iPn_vM1-mYw.mp4-low/iPn_vM1-mYw-low.mp4",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/iPn_vM1-mYw.m3u8/iPn_vM1-mYw.m3u8",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/iPn_vM1-mYw.mp4/iPn_vM1-mYw.png",
+                        "mp4-low-ios": "https://cdn.kastatic.org/ka-youtube-converted/iPn_vM1-mYw.mp4-low-ios/iPn_vM1-mYw-low-ios.mp4"
+                      },
+                      "translatedYoutubeId": "iPn_vM1-mYw",
+                      "sponsored": false,
+                      "youtubeId": "HyThzLRuqXo",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 535,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/ZCdwTudJg6e6n-P2gsaUborP4izvMsGo71pvEVlX9dNYWcLXcP7VHkWpn2grt4TUP1KoJLQP9NswyHBuBLSFTBw",
+                      "slug": "proof-that-perpendicular-lines-have-negative-reciprocal-slope",
+                      "progressKey": "vx058b41f0"
+                    }
+                  ],
+                  "standards": [],
+                  "id": "x14e2d49a"
+                },
+                {
+                  "slug": "distance-between-a-point-and-a-line",
+                  "description": "Um tutorial opcional em que vocu00ea vai descobrir a distu00e2ncia mu00ednima entre um ponto e uma reta dada.",
+                  "title": "Desafio: distu00e2ncia entre um ponto e uma reta",
+                  "url": "/math/geometry-home/analytic-geometry-topic#distance-between-a-point-and-a-line",
+                  "contentItems": [
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-between-a-point-and-a-line/v/distance-between-a-point-and-a-line",
+                      "kind": "Video",
+                      "translatedYoutubeLang": "pt",
+                      "description": "A distu00e2ncia de um ponto atu00e9 uma reta u00e9 a menor distu00e2ncia entre o ponto e qualquer ponto na reta. Isso pode ser feito com vu00e1rios recursos, como a equau00e7u00e3o reduzida da reta e o teorema de Pitu00e1goras.",
+                      "title": "Distu00e2ncia entre ponto e reta",
+                      "contentId": "xb8d341b5",
+                      "downloadUrls": {
+                        "mp4": "https://cdn.kastatic.org/ka-youtube-converted/LEQGuwuoxPE.mp4/LEQGuwuoxPE.mp4",
+                        "png": "https://cdn.kastatic.org/ka-youtube-converted/LEQGuwuoxPE.mp4/LEQGuwuoxPE.png",
+                        "m3u8": "https://cdn.kastatic.org/ka-youtube-converted/LEQGuwuoxPE.m3u8/LEQGuwuoxPE.m3u8"
+                      },
+                      "translatedYoutubeId": "LEQGuwuoxPE",
+                      "sponsored": false,
+                      "youtubeId": "iATjsfAX8yc",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_video"
+                      ],
+                      "duration": 332,
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/tJ0RqrQIAJ9l14zxp0386gc4_knp8W3HrcRc8AWb00xBQMa0jeEi_I9JG0B09CCdeMCAsIR39Sq71hYgpJHLEjCS",
+                      "slug": "distance-between-a-point-and-a-line",
+                      "progressKey": "vxb8d341b5"
+                    },
+                    {
+                      "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-between-a-point-and-a-line/e/distance_between_point_and_line",
+                      "isSkillCheck": false,
+                      "kind": "Exercise",
+                      "description": "Calcule a distu00e2ncia entre um ponto e uma reta. Atenu00e7u00e3o: algumas das retas su00e3o perfeitamente horizontais ou verticais.",
+                      "title": "Distu00e2ncia entre ponto e reta",
+                      "contentId": "520927569",
+                      "masteryEnabled": false,
+                      "slug": "distance_between_point_and_line",
+                      "subjectMasteryEnabled": false,
+                      "sponsored": false,
+                      "progressKey": "e520927569",
+                      "bigBingoLinkConversions": [
+                        "topic_page_click_exercise"
+                      ],
+                      "relatedVideos": [
+                        {
+                          "nodeUrl": "/math/geometry-home/analytic-geometry-topic/distance-between-a-point-and-a-line/v/distance-between-a-point-and-a-line",
+                          "kind": "Video",
+                          "translatedYoutubeLang": "pt",
+                          "description": "A distu00e2ncia de um ponto atu00e9 uma reta u00e9 a menor distu00e2ncia entre o ponto e qualquer ponto na reta. Isso pode ser feito com vu00e1rios recursos, como a equau00e7u00e3o reduzida da reta e o teorema de Pitu00e1goras.",
+                          "title": "Distu00e2ncia entre ponto e reta",
+                          "contentId": "xb8d341b5",
+                          "imageUrl": "https://cdn.kastatic.org/googleusercontent/tJ0RqrQIAJ9l14zxp0386gc4_knp8W3HrcRc8AWb00xBQMa0jeEi_I9JG0B09CCdeMCAsIR39Sq71hYgpJHLEjCS",
+                          "translatedYoutubeId": "LEQGuwuoxPE",
+                          "youtubeId": "iATjsfAX8yc",
+                          "duration": 332,
+                          "slug": "distance-between-a-point-and-a-line"
+                        }
+                      ],
+                      "thumbnailUrl": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+                      "expectedDoNCount": 4,
+                      "timeEstimate": {
+                        "lowerBound": 4,
+                        "upperBound": 6
+                      }
+                    }
+                  ],
+                  "standards": [],
+                  "id": "xbfee413f"
+                }
+              ],
+              "includeUpNextShelf": true,
+              "subject": {
+                "url": "/math/geometry-home",
+                "title": "Geometria (todo o conteu00fado)"
+              }
+            }
+          ]
+        }
+      ],
+      "unitId": "xaf60b762",
+      "requestedPath": "math/geometry-home/analytic-geometry-topic",
+      "curationKind": "Concept",
+      "unit": "analytic-geometry-topic",
+      "translatedCustomTitleTag": ""
+    }
+  }
+}

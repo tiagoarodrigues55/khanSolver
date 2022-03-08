@@ -1,0 +1,11 @@
+Começa com o UserAssigments
+Pegar os contentsIds dos testes
+Pegar url no defaultPath de cada teste (só até o #)
+Na resposta vai ter um json
+Onde é possível encontrar o unitId 
+Se for um quiz da pra pegar o progressKey
+Passando o progresskey e o topicId para o getOrCreateExerciseTask
+Dentro de userExercises obtemos o content id através do id do exercise model e o  assessmentItemSha e assessmentItemId no id e no sha de cada um dos items
+
+
+Parei na getOrCreateExerciseTask não consegui fazer retornar ainda
